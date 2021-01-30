@@ -52,7 +52,7 @@
 =5	=5	=5
 8r	4.ccn)	.
 8F# 8dL	.	.
-8F# 8dJ)	.	.
+8F# 8dJ	.	.
 8r	(32cccnLLL	.
 .	32aa	.
 .	32ff#	.
@@ -167,7 +167,7 @@
 16d	.	.
 16B	(16gL	.
 16dJJ	16bJJ	.
-16ALL	8f#))	.
+16ALL	8f#)	.
 16d	.	.
 16A	8r	.
 16dJJ	.	.
@@ -818,7 +818,7 @@
 8D	16d	.
 .	16cnJJ	.
 =99	=99	=99
-4G	(16BLL)	f)
+4G	16BLL)	f)
 .	(16b	.
 .	16a#	.
 .	16bJJ	.
@@ -966,14 +966,14 @@
 4r	4r	4r	.
 *v	*v	*	*
 =117	=117	=117
-N(32ALLL	8r	p
-32c#	.	.
-32e	.	.
-32gJJJ	.	.
+8r>	(32A<LLL	p
+.	32c#<	.
+.	32e<	.
+.	32g<JJJ	.
 8r	32aLLL	.
 .	32cc#	.
 .	32ee	.
-.	32ggJJJN)	.
+.	32ggJJJ)	.
 8r;	8r;	.
 8r	(32ALLL	f
 .	32d	.
@@ -1455,7 +1455,7 @@ N(32ALLL	8r	p
 16c#	16ee	.
 16BJJ	16ddJJ	.
 =173	=173	=173
-()8A	16cc#LL	.
+8A)	16cc#LL	.
 .	16dd	.
 8r	16ee	.
 .	16ddJJ	.
@@ -1599,7 +1599,7 @@ N(32ALLL	8r	p
 16dJJ	.	.
 16GLL	(8bTL	.
 16d	.	.
-16F#	(8aJ)	.
+16F#	8aJ)	.
 16dJJ	.	.
 =190	=190	=190
 4E 4c#)	4a 4cc# 4ee 4gg	fz
@@ -1640,4 +1640,4 @@ N(32ALLL	8r	p
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/08/27
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/24
+!!!EEV: 2021/01/30
