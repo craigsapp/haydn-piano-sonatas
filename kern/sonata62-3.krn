@@ -1,11 +1,11 @@
 !!!COM: Haydn, Franz Joseph
-!!!CDT: 1732/03/31/-1809/05/31/
+!!!CDT: 1732/03/31-1809/05/31
 !!!CNT: Austrian
 !!!OTL: Sonata No. 62 in E-flat major
 !!!SCT: Hob. XVI:52
 !!!OMV: Mvmt. 3
 !!!OMD: Finale: Presto
-!!!ODT: 1794///
+!!!ODT: 1794
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -214,9 +214,9 @@
 =30	=30	=30
 *^	*	*
 8r	2e-	8cccL	pf
-(8gL	.	8ggJ))	.
+(8gL	.	8ggJ)	.
 8cc	.	8r	.
-()8gJ)	.	(8gg	.
+8gJ)	.	(8gg	.
 !!LO:LB:g=z
 =31	=31	=31	=31
 8r	2d	8ggL	.
@@ -637,7 +637,7 @@
 16B-	8an 8ccJ	.
 16AJJ	.	.
 =99	=99	=99
-(4B-	(16b-LL)	.
+4B-	(16b-LL)	.
 .	16an)	.
 .	16b-	.
 .	16aJJ	.
@@ -783,7 +783,7 @@
 16c	8DD 8FFJ	.
 16BJJ	.	.
 =122	=122	=122
-4c)	4CC (4EEn)	.
+4c)	4CC 4EEn)	.
 4r	8r	.
 *	*clefG2	*clefG2
 .	8ccc	<
@@ -800,7 +800,7 @@
 8e-	.	16bb-	.
 .	.	16cccJJ	.
 8c	4A-	8eee-L	.
-(8e-J)	.	8aa-J	.
+8e-J	.	8aa-J	.
 =125	=125	=125	=125
 8d-L	4A- 4B-	8ggL	.
 8e-	.	8bb-	.
@@ -1277,7 +1277,7 @@
 .	8aa- 8cccJ	.
 =184	=184	=184
 (4cc	4een (4gg	.
-8f')	(8ff') 8aa-')	.
+8f')	(8ff') 8aa-'	.
 8r	8r	.
 =185	=185	=185
 4r;	4r;	.
@@ -1314,7 +1314,7 @@
 =191	=191	=191
 4b- 4dd-	8ffL	.
 .	8een	.
-8a- (8ccL)	(8ff)	.
+8a- (8ccL	8ff)	.
 8a- 8cc-J	(8aa-J	<
 =192	=192	=192
 8a- 8cc-L	8ggnL	.
@@ -1324,7 +1324,7 @@
 =193	=193	=193
 4a- 4cc-	8ee-L	.
 .	8ddn	.
-8g (8b-)	8ee-J)	.
+8g 8b-)	8ee-J)	.
 8r	(8eee-'	.
 =194	=194	=194
 2r	8ddd'L	.
@@ -1570,9 +1570,9 @@
 =233	=233	=233
 *^	*	*
 8r	2e-	8cccL	.
-8gL	.	(8ggJ))	.
+8gL	.	8ggJ)	.
 8cc	.	8r	.
-(8gJ)	.	(8gg	.
+(8gJ	.	(8gg	.
 =234	=234	=234	=234
 8r	2d	8ggL	.
 8gL	.	8ff	.
@@ -1580,7 +1580,7 @@
 (8gJ)	.	8ffJ	.
 =235	=235	=235	=235
 8r	2c	8ffL	.
-8e-L	.	(8ee-J))	.
+8e-L	.	8ee-J)	.
 8g	.	8r	.
 (8e-J)	.	(8ee-	.
 =236	=236	=236	=236
@@ -1593,7 +1593,7 @@
 =237	=237	=237
 *^	*	*
 8r	2A-	8aa-L	.
-8cL	.	(8ee-J))	.
+8cL	.	8ee-J)	.
 8e-	.	8r	.
 (8cJ)	.	(8ee-	.
 =238	=238	=238	=238
@@ -1640,7 +1640,7 @@
 8e-	.	.
 8g-J	8an	.
 =246	=246	=246
-4d (4f)	(8b-L)	.
+4d 4f)	(8b-L)	.
 .	8bb-)	.
 4r	8bb-J	.
 .	8bb-	.
@@ -1701,7 +1701,7 @@
 =259	=259	=259
 2gg	[2ee- (2bbn	.
 =260	=260	=260
-(4aa-)	4ee-] 4ccc)	.
+4aa-	4ee-] 4ccc)	.
 4A- 4a-	4een 4ccc	f
 =261	=261	=261
 *	*^	*
@@ -1994,7 +1994,7 @@
 16e-	8dd 8ffJ	.
 16dJJ	.	.
 =303	=303	=303
-(4e-)	16ee-LL)	.
+4e-	16ee-LL)	.
 .	16dd	.
 .	16ee-	.
 .	16ddJJ	.
