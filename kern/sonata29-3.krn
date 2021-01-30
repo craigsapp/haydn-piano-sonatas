@@ -1,11 +1,11 @@
 !!!COM: Haydn, Franz Joseph
-!!!CDT: 1732/03/31/-1809/05/31/
+!!!CDT: 1732/03/31-1809/05/31
 !!!CNT: Austrian
 !!!OTL: Sonata No. 29 in E-flat major
 !!!SCT: Hob. XVI:45
 !!!OMV: Mvmt. 3
 !!!OMD: Finale: Allegro di molto
-!!!ODT: 1765-1767///
+!!!ODT: 1765-1767
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
@@ -42,7 +42,7 @@
 8a-)	16r	.
 .	(16ccLL	.
 8r	16bn	.
-.	16ccJJ))	.
+.	16ccJJ)	.
 8g	16r	.
 .	(16b-LL	.
 8r	16an	.
@@ -71,7 +71,7 @@
 !	!	!LO:DY:b=2:rj
 (16E-LL	.	f
 16FJJ	.	.
-8G`L))	.	.
+8G`L)	.	.
 8E-`	.	.
 8F`	4a-T	.
 8BB-`J	.	.
@@ -1402,7 +1402,7 @@
 .	32ee-L	.
 .	32ffJJJ	.
 =121	=121	=121
-2.r	()8gg`	.
+2.r	8gg`)	.
 .	8r	.
 .	4r	.
 .	4r	.
@@ -1562,7 +1562,7 @@
 .	ee-16q/LL	.
 .	ff16q/JJ	.
 =134	=134	=134
-(4e-)	8ee-)	.
+4e-)	8ee-)	.
 .	(16g 16b-LL	>
 .	16a- 16ccJJ	.
 4r	8g`) 8b-`L	.
@@ -1591,4 +1591,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/02/19/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/24
+!!!EEV: 2021/01/30
