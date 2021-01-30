@@ -44,7 +44,7 @@
 .	.	ff#16qLL	.
 .	.	gg16qJJ	.
 =5	=5	=5	=5
-4d)	4D))	4ff#)	]
+4d)	4D)	4ff#)	]
 4r	4r	4r	.
 *v	*v	*	*
 =6	=6	=6
@@ -102,7 +102,7 @@
 16B	.	.	.
 16A#	.	.	.
 16BJJ	16gg#k	.	.
-16D#LL	8aa`))	.	.
+16D#LL	8aa`)	.	.
 16B	.	.	.
 16A#	8aa`J	8ff#	.
 16BJJ	.	.	.
@@ -125,7 +125,7 @@
 4r	16ff#LL	.
 .	16ee	.
 .	16dd#	.
-.	16eeJJ))	.
+.	16eeJJ)	.
 *clefG2	*	*
 =16	=16	=16
 8f# 8a	16r	.
@@ -482,7 +482,7 @@
 8f# 8dd	16bb-L	.
 .	16aaJJ	.
 =66	=66	=66
-8g 8dd	(16bb-LL)	.
+8g 8dd	16bb-LL)	.
 .	(16gg	.
 8r	16aa	.
 .	16bb-JJ	.
@@ -680,7 +680,7 @@
 8d)	8D	16gLL	.
 .	.	16f#	.
 8r	8r	16e	.
-.	.	()16dJJ	.
+.	.	16dJJ)	.
 *v	*v	*	*
 !!LO:LB:g=z
 =88	=88	=88
@@ -822,7 +822,7 @@
 .	16aJJ	.
 =107	=107	=107
 (8gL	(8a#L)	.
-()8GJ	8bJ)	.
+8GJ)	8bJ)	.
 8r	(16ggLL	.
 .	16ee	.
 8A` 8e`	16cc#	.
@@ -838,4 +838,6 @@
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 3
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
-!!!END: 2008/03/05/
+!!!END: 2008/03/05
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2021/01/30
