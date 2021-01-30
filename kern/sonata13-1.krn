@@ -954,7 +954,7 @@
 16D 16F#	.	.
 16D 16F#	8dd`J)	.
 16D 16F#JJ	.	.
-16C# 16GLL	(4b-T)	>
+16C# 16GLL	(4b-T	>
 16C# 16G	.	.
 16C# 16G	.	.
 16C# 16GJJ	.	.
@@ -965,7 +965,7 @@
 .	(32g	p
 *tuplet	*	*
 !LO:TUP:a	!	!
-(24BBnLL	8dL	.
+24BBnLL	8dL	.
 24D	.	.
 24GJJ	.	.
 !LO:TUP:a	!	!
@@ -977,7 +977,7 @@
 !!LO:LB:g=z
 =42	=42	=42
 *	*Xtuplet	*
-(8BB`	24d`LL)	.
+8BB`	24d`LL)	.
 .	(24dd	.
 .	24cc	.
 8r	24b	.
@@ -1111,7 +1111,7 @@
 .	24dd	.
 8r	24cc	.
 .	24b	.
-.	(24aJJ)	.
+.	24aJJ)	.
 =47	=47	=47
 8r	(24bLL	f
 .	24dd	.
@@ -1135,4 +1135,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/10
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/15
+!!!EEV: 2021/01/30
