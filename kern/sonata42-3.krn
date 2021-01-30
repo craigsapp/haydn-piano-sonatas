@@ -1,11 +1,11 @@
 !!!COM: Haydn, Franz Joseph
-!!!CDT: 1732/03/31/-1809/05/31/
+!!!CDT: 1732/03/31-1809/05/31
 !!!CNT: Austrian
 !!!OTL: Sonata No. 42 in G major
 !!!SCT: Hob. XVI:27
 !!!OMV: Mvmt. 3
 !!!OMD: Presto.
-!!!ODT: 1776///
+!!!ODT: 1776
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -24,7 +24,7 @@
 8r	8dd	.
 (8B 8d	8gJ	.
 =2	=2	=2
-4A 4c))	4g	>
+4A 4c)	4g	>
 .	.	]
 4r	8f#L)	.
 .	8d`>J	.
@@ -224,7 +224,7 @@
 4c)	(16f#LL	<
 .	16e	.
 .	16d#	.
-.	16eJJ)	.
+.	16eJJ	.
 8r	4a)	.
 (8c#	.	.
 =38	=38	=38
@@ -927,26 +927,26 @@ N(>16g>LL	8rccc	.
 =139	=139	=139
 (4a>	4b (4dd	.
 8A)	8a 8cc)	.
-8r	(16cccLL	.
+8r	N(16cccLL	.
 .	16aaJJ	.
 !!LO:LB:g=z
 =140	=140	=140
-8r>	16ff#LL	.
+8rg>	16ff#LL	.
 .	16ccJJ	.
-16a>LL	8r	.
+16a>LL	8rff	.
 16f#>JJ	.	.
-8d>`L)	8r	.
+8d>`LN)	8raa	.
 8f#>`J	8a` 8cc`	.
 =141	=141	=141
-4g>	(4a	.
-8G	8g 8b)	.
+(4g>	(4a	.
+8G)	8g 8b)	.
 8B	8dd`	.
 =142	=142	=142
 4c	(16eeLL	mf
 .	16cc	.
 .	16b	.
 .	16aJJ	.
-8r	16g#LL	.
+8r	16g#LL<	.
 .	16a	.
 8c	16ee	.
 .	16aJJ	.
@@ -970,7 +970,7 @@ N(>16g>LL	8rccc	.
 .	16bJJ	.
 =145	=145	=145
 *^	*	*
-4g	4.d	4b	.
+4g	4.d	4bt	.
 8f#)	.	8a)	.
 8r	8r	8d`	.
 *v	*v	*	*
@@ -1010,7 +1010,7 @@ N(>16g>LL	8rccc	.
 16GLL	8bL)	.
 16d	.	.
 16B	8g`J	.
-()16dJJ	.	.
+16dJJ)	.	.
 =150	=150	=150
 (16CLL	8cc`L	ff
 16G	.	.
@@ -1033,7 +1033,7 @@ N(>16g>LL	8rccc	.
 4D/	.	.
 .	8c 8f# 8a	]]
 =153	=153	=153
-4GG) 4G	4B 4d (4g)	.
+4GG) 4G	4B 4d 4g)	.
 8r	8r	.
 ==	==	==
 *-	*-	*-
