@@ -17,7 +17,7 @@
 *A:	*A:	*A:
 *M3/4	*M3/4	*M3/4
 *MM128	*MM128	*MM128
-=1-	=1-	=1-
+=1	=1	=1
 4AA 4A	(4a	mf
 !	!LO:TUP:a	!
 4r	12cc#L	.
@@ -38,7 +38,7 @@
 .	12eeJ	.
 4c#)	4a)	.
 .	(16qqbbP	.
-(4A	(8aaL)	.
+(4A	(8aapL)	.
 .	16gg#L	.
 .	16ff#JJ	.
 =4	=4	=4
@@ -89,8 +89,8 @@
 .	12ff#J	.
 4G#	4ee)	.
 =9	=9	=9
-.	16qqdd#	.
-4A	(8cc#L	.
+.	(y16qqdd#P	.
+4A	(8cc#pL)	.
 .	16bL	.
 .	16aJJ	.
 4B	4g#)	.
@@ -148,16 +148,16 @@
 .	12aJ	.
 (4c#	4ee)	.
 =18	=18	=18
-4B	12ddL	.
+4B	(12ddL	.
 .	12ee	.
 .	12ff#J	.
-4G#	4b	.
+4G#	4b)	.
 4E	4dd'	.
 =19	=19	=19
-4A	12cc#L	.
+4A	(12cc#L	.
 .	12dd	.
 .	12eeJ	.
-4c#)	4a	.
+4c#)	4a)	.
 .	(16qqbbP	.
 (4A	(8aaLLp)	.
 .	16gg#	.
@@ -222,7 +222,7 @@
 4e)	.	.	.
 .	.	8ee)	.
 =27	=27	=27	=27
-4r	2.Gn	8r	.
+4rg	2.Gn	8r	.
 .	.	(4b/	.
 (4d#	.	.	.
 .	.	4a	.
@@ -236,21 +236,21 @@
 4dn)	.	.	.
 .	.	8dd)	.
 =29	=29	=29	=29
-4r	2.Fn	8r	.
+4re	2.Fn	8r	.
 .	.	(4a	.
 (4c#	.	.	.
 .	.	4g	.
 4d)	.	.	.
 .	.	8f)	.
 =30	=30	=30	=30
-4r	2.E	8r	.
+4re	2.E	8r	.
 .	.	(4g	.
 (4B	.	.	.
 .	.	4gg	.
 4cn)	.	.	.
 .	.	8cc)	.
 =31	=31	=31	=31
-4r	2.E	8r	.
+4re	2.E	8r	.
 .	.	(4gg	.
 (4B	.	.	.
 .	.	4g	.
@@ -356,11 +356,11 @@
 (4G#	.	.	.
 .	.	8B	.
 4A)	4AA)	8cL	.
-.	.	8dJ)	.
+.	.	8dJ	.
 *v	*v	*	*
 =46	=46	=46
-.	(4qqc	.
-(4E	2B)	.
+.	(4qqcP)	.
+(4E	2Bp)	.
 4EE)	.	.
 4r	4r	.
 !!LO:LB:g=z
@@ -398,7 +398,7 @@
 .	.	(4gg#	.
 (4B	.	.	.
 .	.	4bbn	.
-4G#'<	.	.	.
+4G#	.	.	.
 .	.	[8dd	.
 *v	*v	*	*
 =52	=52	=52
@@ -424,9 +424,10 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 5
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/05
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/30
+!!!EEV: 2021/01/31
