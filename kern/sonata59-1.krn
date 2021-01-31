@@ -18,7 +18,7 @@
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
 *E-:	*E-:	*E-:
 *M3/4	*M3/4	*M3/4
-*MM120	*MM120	*MM120
+*MM138	*MM138	*MM120
 4r	(16GLL	mf
 .	16B-	.
 .	16A-	.
@@ -1003,7 +1003,7 @@
 16A-	.	.
 16F	8aa-'J	.
 16A-JJ	.	.
-!!LO:PB:g=z
+!!LO:LB:g=z
 =99	=99	=99
 16CLL	(16gg-LL	.
 16A-	16aa-	.
@@ -1346,10 +1346,10 @@
 .	32f	.
 .	32en	.
 8ryy	32e-	.
-.	32d)	.
+.	32d	.
 .	32d-	.
 .	32c	.
-32ryy	32c-JJJ	.
+32ryy	32c-JJJ)	.
 4r	(8B-'L	.
 .	8An'J)	.
 *	*Xcue	*
@@ -1811,7 +1811,7 @@
 .	16a-	.
 .	16g	.
 .	16fJJ	.
-!!LO:PB:g=z
+!!LO:LB:g=z
 =176	=176	=176
 8E-	8e-'L)	.
 8r	8ee- 8ggJ	>
@@ -2135,4 +2135,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/11
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2008/07/11
+!!!EEV: 2021/01/30
