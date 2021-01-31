@@ -34,9 +34,10 @@
 .	32qg#LLL	.
 .	32qaJJJ	.
 =3	=3	=3
-8e)	8g#)	mf
+8e)	8g#)	.
 *clefF4	*	*
-8GG#' 8G#'L	8B' 8e'L	.
+!	!	!LO:DY:rj
+8GG#' 8G#'L	8B' 8e'L	mf
 8AA' 8A'	8c#' 8f#'	.
 8BB' 8F#'J	8d#'J	.
 =4	=4	=4
@@ -85,8 +86,8 @@
 8BJ	.	.
 .	16bJk)	.
 =9	=9	=9
-(8D#L)	16r	.
-.	(8aL	<
+(8D#L)	16r	<
+.	(8aL	.
 8B	.	.
 .	8f#	.
 8E	.	.
@@ -121,7 +122,7 @@
 .	24e	.
 .	24f#J	.
 8BBJ)	8B`J)	.
-(16D#LL>	4r	mf
+(<16D#LL>	4r	mf
 16BB	.	.
 16F#	.	.
 16EJJ	.	.
@@ -132,10 +133,10 @@
 .	.	16b)	.
 .	.	16b`	.
 .	.	16b`JJ	.
-16re	.	16bLL	.
+16re	.	(16bLL	.
 16BLL	.	16a	.
 16B	.	16g#	.
-16BJJ	.	16f#JJ	.
+16BJJ	.	16f#JJ)	.
 =14	=14	=14	=14
 2B	(8EL	(16g#LL	.
 .	.	16b)	.
@@ -193,7 +194,7 @@
 8BJ	(16dd#	.
 .	16ff#JJ)	.
 =20	=20	=20
-8c#L	(16ff#LL	f
+8c#L	(16ff#LL	fz
 .	16ee)	.
 8B	(16ee	.
 .	16dd#JJ)	.
@@ -205,22 +206,24 @@
 8F#L	(16bLL	.
 .	16a#)	.
 8En	(16a#	.
-.	16g#JJ)	>
-8D#	(16g#LL	.
+.	16g#JJ)	.
+8D#	(16g#LL	>
 .	16f#)	.
 8C#J	(16f#	.
 .	16eJJ)	.
 =22	=22	=22
 !	!LO:TUP:b	!
-4BB)	(24d#LL	.
+4BB)	(24d#LL	>
 .	24e	.
 .	24f#JJ	.
 !	!LO:TUP:b	!
 .	24BLL	.
 .	24e	.
 .	24c#JJ	.
-(8F#L	4c#	.
+(8F#L	4c#T	]
 8FF#J)	.	.
+.	32qBLLL	.
+.	32qc#JJJ	.
 =23	=23	=23
 (8BBL	8.BL<)	.
 8BBBJ)	.	.
@@ -334,15 +337,17 @@
 8g#J	.	16gg#	.
 .	.	16eeJJ	.
 =36	=36	=36	=36
+!	!	!LO:TUP:a	!
 4b)	4B	24dd#LL	.
 .	.	24ee	.
 .	.	24ff#J	]
 .	.	8b`J)	.
-4r	4r	4r	.
+4r	4ryy	4r	.
 *v	*v	*	*
 *clefF4	*	*
 !!LO:LB:g=z
 =37	=37	=37
+!	!	!LO:DY:rj
 4EE 4E	8.e 8.g# 8.b 8.eeL	f
 .	(16eJk	p
 *clefG2	*	*
@@ -351,16 +356,18 @@
 8f#J	8aJ	.
 =38	=38	=38
 8.g#L	8.bL	.
-16aJk)	16cc#Jk	.
-(8g#L	8bL)	.
-8d#J	(8aJ	.
+16aJk	16cc#Jk	.
+8g#L)	8bL)	.
+(8d#J	(8aJ	.
 =39	=39	=39
-8e)	8g#)	mf
+8e)	8g#)	.
 *clefF4	*	*
-8GG#' 8G#'L	8B' 8e'L	.
+!	!	!LO:DY:rj
+8GG#' 8G#'L	8B' 8e'L	mf
 8AA' 8A'	8c#' 8f#'	.
 8BB' 8F#'J	8d#'J	.
 =40	=40	=40
+!	!LO:TUP:b	!
 4EE 4E	(24eLL	.
 .	24f#	.
 .	24g#J	.
@@ -372,7 +379,7 @@
 .	32ee	.
 .	32ff#	.
 .	32gg#	.
-.	32aaJJJ	.
+.	32aaJJJ	[
 *clefG2	*	*
 =41	=41	=41
 (8eL	8bbL)	f
@@ -559,8 +566,8 @@
 .	)16bJk	.
 =62	=62	=62
 (8AL)	16r	.
-.	(8cc#L	<
-8e	.	.
+.	(8cc#L	.
+8e	.	<
 .	8dd#	.
 8G#	.	.
 .	8ee	.
@@ -661,11 +668,12 @@
 8c#	(16ee	.
 .	16gg#JJ)	.
 8d#	(16ff#LL	.
-.	16aa)	.
+.	16aan)	.
 8eJ)	(16gg#	.
 .	16bbJJ)	[
 !!LO:LB:g=z
 =73	=73	=73
+!	!	!LO:DY:rj
 8F# (8f#L	(16bbLL	f
 .	16aa)	.
 8E 8e	(16aa	.
@@ -707,14 +715,14 @@
 4BBB 4BB	(8g#L	8eL	.
 .	16.f#L)	8d#J	.
 .	(32bJJk	.	.
-4r	8f#`L)	8d#L	.
-.	8g#`J	8eJ	.
+4r	8f#`L)	8d#`yL	.
+.	8g#`J	8e`yJ	.
 =78	=78	=78	=78
 8BBB` 8BB`L	(8aL	8f#L	.
 8EE` 8E`J	16.g#L)	8eJ	.
 .	(32bJJk	.	.
-4r	8g#`L)	8eL	.
-.	8a`J	8f#J	.
+4r	8g#`L)	8e`yL	.
+.	8a`J	8f#`yJ	.
 *	*v	*v	*
 !!LO:LB:g=z
 =79	=79	=79
@@ -724,7 +732,7 @@
 .	8e` 8g#` 8b`	.
 =80	=80	=80
 8AA 8A)	16r	.
-.	(8cc#L	.
+.	(<8cc#L	.
 (8c#L	.	.
 .	8a	.
 8B	.	.
@@ -770,9 +778,10 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 3, No. 22
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/10/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2008/07/10/
+!!!EEV: 2021/01/31/
