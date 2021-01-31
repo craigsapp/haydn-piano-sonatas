@@ -1,11 +1,11 @@
 !!!COM: Haydn, Franz Joseph
-!!!CDT: 1732/03/31/-1809/05/31/
+!!!CDT: 1732/03/31-1809/05/31
 !!!CNT: Austrian
 !!!OTL: Sonata No. 50 in D major
 !!!SCT: Hob. XVI:37
 !!!OMV: Mvmt. 1
-!!!OMD: Andante
-!!!ODT: ~1779///
+!!!OMD: Allegro con brio.
+!!!ODT: ~1779
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2
@@ -265,7 +265,7 @@
 .	16ee#	.
 8d 8f#J	16ff#	.
 .	16gg#JJ	.
-8d 8f#L	8ff#))	.
+8d 8f#L	8ff#)	.
 8d 8f#J	8r	.
 !!LO:LB:g=z
 =18	=18	=18
@@ -315,14 +315,14 @@
 .	16aa#	.
 8d 8f#L	16bb	.
 .	16ccc#JJ	.
-8d 8f#	8bb))	.
+8d 8f#	8bb)	.
 8d 8f#J	8r	.
 .	(bb8q	.
 8d# 8f#L	(16aanLL)	.
 .	16gg#	.
 8d# 8f#	16aa	.
 .	16bbJJ	.
-8d# 8f#	8aa))	.
+8d# 8f#	8aa)	.
 8d# 8f#J	8r	.
 =22	=22	=22
 *^	*	*
@@ -1081,8 +1081,8 @@ N(16B-LL	.	.
 16b	.	]
 16f#	8dd#J)	.
 16aJJ	.	.
-.	(ff#8q)	.
-16gLL	()8eeL	.
+.	(ff#8q	.
+16gLL	(8eeL)	.
 16b	.	.
 16f#	8dd#J)	.
 16aJJ	.	.
@@ -1261,14 +1261,14 @@ N(16B-LL	.	.
 .	16ff#	.
 8c# 8eJ	16gg	.
 .	16aaJJ	.
-8c# 8eL	8gg))	.
+8c# 8eL	8gg)	.
 8c# 8eJ	8r	.
 .	(gg8q	.
 8d 8f#L	(16ff#LL)	.
 .	16ee	.
 8d 8f#J	16ff#	.
 .	16ggJJ	.
-8d 8f#L	8ff#))	.
+8d 8f#L	8ff#)	.
 8d 8f#J	8r	.
 *clefF4	*	*
 =82	=82	=82
@@ -1305,7 +1305,7 @@ N(16B-LL	.	.
 8G 8B	8ee)	.
 8G 8BJ	8r	.
 .	(ee8q	.
-8G# 8BL	16ddnLL)	.
+8G# 8BL	(16ddnLL)	.
 .	16cc#	.
 8G# 8B	16dd	.
 .	16eeJJ	.
@@ -1609,6 +1609,6 @@ N(16B-LL	.	.
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 2, No. 17
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
-!!!END: 2011/11/09/
+!!!END: 2011/11/09
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/29
+!!!EEV: 2021/01/30
