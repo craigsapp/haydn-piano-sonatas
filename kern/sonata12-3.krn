@@ -4,7 +4,7 @@
 !!!OTL: Sonata No. 12 in A major
 !!!SCT: Hob. XVI:12
 !!!OMV: Mvmt. 3
-!!!OMD: Finale: Allegretto
+!!!OMD: Finale.: Allegretto.
 !!!ODT: 1750-1755
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -18,6 +18,7 @@
 *M3/8	*M3/8	*M3/8
 *MM112	*MM112	*MM112
 =1-	=1-	=1-
+!	!	!LO:DY:rj
 16ALL	8asSSs	mf
 16e	.	.
 16c#	8r	.
@@ -47,7 +48,7 @@
 16eJJ	.	.
 =5	=5	=5
 .	(16qqddP	.
-4A	(8cc#L)	.
+4A	(8cc#pL)	.
 .	16bL	.
 .	16a	.
 8r	16g#	.
@@ -107,7 +108,7 @@
 .	16aJJ)	.
 =14	=14	=14
 .	(8aqqP	.
-8e')	4g#)	]
+8e')	4g#p)	]
 *clefF4	*	*
 8E'	.	.
 8r	8r	.
@@ -126,7 +127,7 @@
 .	16b	.
 8e`J	16gg#	.
 .	16bJJ)	.
-!!LO:PB:g=z
+!!LO:LB:g=z
 =17	=17	=17
 8r	(16bbLL	p
 .	16ggn	.
@@ -137,7 +138,7 @@
 =18	=18	=18
 8gn`L	16eeLL	.
 .	16b	.
-8f#	16ff#	.
+8f#`	16ff#	.
 .	16b	.
 8e`J	16ggn	.
 .	16bJJ)	.
@@ -217,7 +218,7 @@
 .	(16cc#	.
 .	16aJJ)	.
 =31	=31	=31
-4.EE 4.Dn	8g#`L	.
+4.EE 4.Dn	8g#`L<	.
 .	(16bL	.
 .	16g#)	.
 .	(16ddn	.
@@ -348,7 +349,7 @@
 8A 8c#J	8r	.
 !!LO:LB:g=z
 =52	=52	=52
-4G# 4B)	16bbLL	.
+4G# 4B)	(16bbLL	.
 .	16aa	.
 .	16gg#	.
 .	16ff#	.
@@ -360,7 +361,7 @@
 .	16dd	.
 .	16cc#	.
 8r	16b	.
-.	16aJJ	.
+.	16aJJ)	.
 =54	=54	=54
 4D	(16ff#LL	>
 .	16ee	.
@@ -370,7 +371,7 @@
 .	16aJJ)	.
 =55	=55	=55
 .	(8aqqP	.
-4EE 4E	4g#)	]
+4EE 4E	4g#p)	]
 8r	8r	.
 =56	=56	=56
 8r	(16eeLL	mf
@@ -402,7 +403,7 @@
 .	16eJJ)	.
 =60	=60	=60
 8r	(16eeLL	mf
-.	16cc#	.
+.	16cc#X	.
 8r	16a	.
 .	16e	.
 8d`	16g#	.
@@ -463,9 +464,11 @@
 8r	8r	.
 ==:|!	==:|!	==:|!
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 5
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/05
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/30
+!!!EEV: 2021/01/31
