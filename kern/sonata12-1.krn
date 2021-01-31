@@ -147,8 +147,8 @@
 .	24gg#	.
 .	24ff#JJ	.
 =11	=11	=11
-.	(8qqee	.
-8B`L)	4dd#))	.
+.	(8qqPee	.
+8B`L)	4dd#p))	.
 8BB`J	.	.
 *clefG2	*	*
 *Xtuplet	*	*
@@ -196,9 +196,9 @@
 24eJJ	24gg#JJ	.
 8d#L	24aaLL	.
 .	24gg#	.
-.	24ff#JJ	>
+.	24ff#JJ	.
 24eL	24gg#LL	.
-24f#	24ff#	.
+24f#	24ff#	>
 24g#JJ	24eeJJ	.
 =15	=15	=15
 24aLL	24dd#LL	.
@@ -262,11 +262,11 @@
 .	.	24aJJ	.
 (8F#J	.	24aa`LL)	.
 .	.	(24aa	.
-.	.	24dd#JJ)	.
+.	.	24dd#JJ)	[
 *v	*v	*	*
 =20	=20	=20
-8E' 8G#'L)	4eew	.
-8e'J	.	.
+8E' 8G#'L)	4eew	>
+8e'J	.	]
 4r	4r	.
 !!LO:LB:g=z
 =21:|!|:	=21:|!|:	=21:|!|:
@@ -274,15 +274,19 @@
 *clefG2	*	*
 *Xbrackettup	*	*
 *tuplet	*	*
+!	!LO:TX:c:i:t=dolce	!
 24r	8eesSSs	.
 (24eLL	.	.
 24g#JJ)	.	.
+!	!LO:TURN:lacc=none	!
 24r	8eesSSs	.
 (24f#LL	.	.
 24aJJ)	.	.
+!	!LO:TURN:lacc=none	!
 24r	8eesSSs	.
 (24g#LL	.	.
 24bJJ)	.	.
+!	!LO:TURN:lacc=none	!
 24r	8eesSSs	.
 (24aLL>	.	.
 24cc#JJ)	.	.
@@ -339,12 +343,9 @@
 .	24ff#	.
 .	24eeJJ	.
 =26	=26	=26
-*tuplet	*	*
-!LO:TUP:a	!	!
 (24DLL	8ff#')	f
 24F#	.	.
 24AJJ	.	.
-*Xtuplet	*	*
 24dLL	8r	.
 24f#	.	.
 24aJJ	.	.
@@ -420,12 +421,12 @@
 .	24cc#`LL)	.
 .	(24cc#	.
 .	24bJJ	.
-8C#	24a`LL)	.
+(8C#	24a`LL)	.
 .	(24a	.
 .	24g#JJ	.
 !!LO:LB:g=z
 =32	=32	=32
-4.D	24f#`LL)	<
+4.D)	24f#`LL)	<
 .	(24aa	.
 .	24gg#JJ	.
 .	24ff#`LL)	.
@@ -484,17 +485,17 @@
 (8c#	(24aaLL	.
 .	24ee	.
 .	24ee#JJ	.
-8d	(24ff#LL)	.
-.	24a#	.
+8d	24ff#LL)	.
+.	(24a#	.
 .	24bJJ	.
 8DJ)	24ddLL	.
 .	24f#	.
 .	24bJJ	.
 =37	=37	=37
-.	(8qan	.
-(8EL	4g#))	.
-8EE'J)	.	>
-(24ELL	4r	.
+.	(8qqanP	.
+(8EL	4g#p))	.
+8EE'J)	.	.
+(24ELL	4r	>
 24F#	.	.
 24EJJ	.	.
 24DLL	.	.
@@ -598,9 +599,9 @@
 .	24dd	.
 .	24bJJ	.
 =46	=46	=46
-8E'L)	(4g#)	.
+8E'L)	4g#)	.
 8EE'J	.	.
-(24ELL	4eeTT	p
+(24ELL	(4eeTT	p
 24G#	.	.
 24BJJ	.	.
 24G#LL	.	.
@@ -716,7 +717,7 @@
 =55	=55	=55	=55
 8C#L)	4AA	4aw	>
 8AJ	.	.	]
-4r	4r	4r	.
+4r	4ryy	4r	.
 *v	*v	*	*
 ==:|!	==:|!	==:|!
 *-	*-	*-
@@ -728,4 +729,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/04
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/30
+!!!EEV: 2021/01/31
