@@ -136,8 +136,8 @@
 .	16ff#	.
 .	16eeJJ	.
 =14	=14	=14
-.	(4ddqq	>
-4a	2cc#))	.
+.	(4ddqqP	>
+4a	2cc#p))	.
 4e	.	]
 4A)	4r	.
 *clefF4	*	*
@@ -202,20 +202,20 @@
 .	16dqLL	.
 .	16eqJJ	.
 =22	=22	=22
-4D/	2d)	p
+4D/	2d)	.
 4AA	.	.
 4DD)	4r	.
 !	!LO:TX:i:c:t=Fine.:rj	!
 !!LO:LB:g=z
 =23:|!;	=23:|!;	=23:|!;
 *>C	*>C	*>C
-!!!OMD: Trio
+!!!OMD: TRIO.
 *clefG2	*	*
 *k[b-]	*k[b-]	*k[b-]
 *M3/4	*M3/4	*M3/4
 *^	*	*
-(8r	[2.d	8r	p
-8fL	.	(8ddL	.
+8r	[2.d	8r	p
+(8fL	.	(8ddL	.
 8a	.	8ff	.
 8g	.	8ee	.
 8f	.	8dd	.
@@ -249,8 +249,8 @@
 4AA)	8r	.
 .	8e 8cc#	.
 =28	=28	=28
-.	(4gqq/ 4eeqq/	]
-(4D/	2f) 2dd	>
+.	(4gqq/ 4eeqqP/	]
+(4D/	2f) 2ddp	>
 4AA	.	]
 4DD)	4r	.
 *clefG2	*	*
@@ -305,7 +305,7 @@
 =35	=35	=35
 4F	8ff`L	.
 .	8ccc`J	.
-8r	(2ee-	.
+8r	(2ee-T	.
 8F` 8A`L	.	.
 8G` 8B-`	.	.
 8A` 8c`J	.	.
@@ -329,11 +329,11 @@
 8re	[2.F	8r	.
 (8AL	.	(8fL	p
 8c	.	8a	.
-8B-	.	8g)	.
+8B-	.	8g	.
 8A	.	8f	.
 8GJ	.	8eJ	.
 =39	=39	=39	=39
-4A)	4F]	8f`L	.
+4A)	4F]	8f`L)	.
 .	.	8c`J	.
 (4c	4F#	(4e-T	.
 4B-)	4G	4d)	.
@@ -362,8 +362,8 @@
 8fJ)	.	8aaJ)	.
 =43	=43	=43	=43
 8r	2.A	8r	.
-8eL	.	(8ggnL	.
-(8f	.	8aa	.
+(8eL	.	(8ggnL	.
+8f	.	8aa	.
 8e	.	8gg	.
 8d#	.	8ff#	.
 8eJ)	.	8ggJ)	.
@@ -463,4 +463,4 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/03/05
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/30
+!!!EEV: 2021/02/01
