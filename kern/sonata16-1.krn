@@ -38,14 +38,14 @@
 .	(32c#k	.
 8F#	16.d	.
 .	32aJJk	.
-.	(8aqq	.
-8E	4gT)	.
+.	(8aqqP	.
+8E	4gTp)	.
 8c#J	.	.
 .	32f#qLLL	.
 .	32gqJJJ	.
 =4	=4	=4
-.	(8gqq	.
-8dL	4f#))	.
+.	(8gqqP	.
+8dL	4f#p))	.
 16.AL	.	.
 32F#JJk	.	.
 4D)	8r	.
@@ -66,21 +66,21 @@
 .	32ff#LL	.
 .	32eeJJJ	.
 8r	16.ddLL)	<
-.	(32ddk	.
+.	((32ddk	.
 (8f#	16.ddd	.
-.	32ccc#JJk	[
+.	32ccc#JJk)	[
 =7	=7	=7
-8gL	16.ccc#LL	.
-.	32bbk	.
-8f#	16.bb	.
-.	32aaJJk	.
-8e	16.aaLL	>
-.	32ggk	.
-8dJ	16.gg	.
-.	32ff#JJk	.
+8gL	(16.ccc#LL	.
+.	32bbk)	.
+8f#	(16.bb	.
+.	32aaJJk)	.
+8e	(16.aaLL	>
+.	32ggk)	.
+8dJ	(16.gg	.
+.	32ff#JJk)	.
 =8	=8	=8
-.	(ff#8qq	.
-8aL	4ee))	]
+.	(ff#8qqP	.
+8aL	4eep))	]
 8eJ	.	.
 4A)	4r	.
 =9	=9	=9
@@ -105,13 +105,14 @@
 .	16f#Jk)	.
 =11	=11	=11
 *^	*	*
+!!!ONB: Verovio does not let tuplet split beams yet.
 !	!	!LO:TUP:r=8	!
 16r	4A	24r	.
 .	.	(24eeLL	.
 (16gLL	.	.	.
-.	.	24dd	.
+.	.	24ddJJ	.
 !	!	!LO:TUP:r=8	!
-16e	.	24cc#	.
+16e	.	24cc#LL	.
 .	.	24dd	.
 16gJJ)	.	.	.
 .	.	24eeJJ)	.
@@ -119,9 +120,9 @@
 16r	4A	24r	.
 .	.	(24eeLL	.
 (16gLL	.	.	.
-.	.	24dd	.
+.	.	24ddJJ	.
 !	!	!LO:TUP:r=8	!
-16e	.	24cc#	.
+16e	.	24cc#LL	.
 .	.	24dd	.
 16gJJ	.	.	.
 .	.	24eeJJ)	.
@@ -158,13 +159,14 @@
 .	16g#Jk)	.
 =15	=15	=15
 *^	*	*
+!!!ONB: Verovio does not let tuplet split beams yet.
 !	!	!LO:TUP:r=8	!
 16rff	4B	24r	.
 .	.	(24ff#LL	<
 (16aLL	.	.	.
-.	.	24ee	.
+.	.	24eeJJ	.
 !	!	!LO:TUP:r=8	!
-16f#	.	24dd#	.
+16f#	.	24dd#LL	.
 .	.	24ee	.
 16aJJ)	.	.	.
 .	.	24ff#JJ)	.
@@ -172,9 +174,9 @@
 16rff	4B	24r	.
 .	.	(24ff#LL	.
 (16aLL	.	.	.
-.	.	24ee	.
+.	.	24eeJJ	.
 !	!	!LO:TUP:r=8	!
-16f#	.	24dd#	.
+16f#	.	24dd#LL	.
 .	.	24ee	.
 16aJJ	.	.	.
 .	.	24ff#JJ)	.
@@ -194,8 +196,8 @@
 !	!	!LO:DY:a=2
 (16.dLL	.	mf
 32c#JJk	.	.
-8dL	8.f#L]	.
-8B`J)	.	.
+8dL)	8.f#L]	.
+8B`J	.	.
 .	(32ddLL	mf
 .	32bJJJ	.
 =18	=18	=18
@@ -203,8 +205,8 @@
 (16.eLL	.	.
 32d#JJk	.	.
 8eL)	8g#)	.
-.	(32ff#qq	.
-8c#`J	()16eeLL	.
+.	(32ff#qqP	.
+8c#`J	(16eeLL)	.
 .	32ddL	.
 .	32cc#JJJ	.
 =19	=19	=19
@@ -214,8 +216,8 @@
 8f#L)	16aLL)	.
 .	(32ddL	<
 .	32eeJJJ	.
-.	(32gg#qq	.
-8dn`J	16ff#LL)	.
+.	(32gg#qqP	.
+8dn`J	16ff#LLp)	.
 .	32eeL	.
 .	32ddJJJ	.
 =20	=20	=20
@@ -228,7 +230,7 @@
 8e`J	16bbLL	.
 .	16ddJJ	.
 =21	=21	=21
-(8aL	(16cc#LK)	f
+(<8aL	(16cc#LK)	f
 .	8ff#	.
 8g#	.	.
 .	16eeJk	.
@@ -248,7 +250,7 @@
 8AJ)	.	.
 .	16cc#Jk)	.
 =23	=23	=23
-(8dL	(16f#LK	>
+(8dL	(<16f#LK	>
 .	8b	.
 8c#	.	.
 .	16aJk	.
@@ -257,8 +259,9 @@
 8AJ	.	.
 .	16cc#Jk	.
 =24	=24	=24
-.	(8cc#q)	.
-8e`L)	4b^<)	.
+.	(8cc#qqP	>
+8e`L)	4bp))	.
+.	.	]
 8E`J	.	.
 8r	(32eeLLL	f
 .	32cc#	.
@@ -284,10 +287,10 @@
 !!LO:LB:g=z
 =27	=27	=27
 *^	*	*
-.	.	(16e#qq	.
-8AL]	4D	8f#L>)	.
-.	.	(32eenqq	.
-(8d	.	16ddL)	.
+.	.	(16e#qqP	.
+8AL]	4D	8f#L>p)	.
+.	.	(32eenqqP	.
+(8d	.	16ddpL)	.
 .	.	(<32cc#L	.
 .	.	32bJJJ	.
 8c#	4E	8aL	.
@@ -300,12 +303,13 @@
 *v	*v	*	*
 *clefG2	*	*
 *^	*	*
-[4a	4r	16eeLL]	.
+[4a	4ryy	16eeLL]	.
 .	.	(16ccn	.
 .	.	16ffn	.
 .	.	16eeJJ)	.
 *v	*v	*	*
 =29	=29	=29
+!	!	!LO:HP:b
 16aLL]	(4dd#	>
 (16f#	.	.
 16b	.	]
@@ -315,6 +319,7 @@
 .	16ee	.
 .	16ddJJ	.
 =30	=30	=30
+!	!	!LO:HP:b
 16g#LL]	(4cc#X)	>
 (16e	.	.
 16a	.	]
@@ -335,12 +340,13 @@
 .	16dd#JJ	.
 !!LO:LB:g=z
 =32	=32	=32
-.	(8dd#qq	>
-8E`L	4ee))	.
-8EE`J	.	]
+.	(8dd#qqP	>
+8E`L	4eep))	.
+.	.	]
+8EE`J	.	.
 !	!LO:TUP:a	!
 8r	(24eLL	p
-.	24cc# 24ee)	.
+.	24cc#X 24ee)	.
 .	24cc#` 24ee`JJ	<
 !	!LO:TUP:a	!
 8A#'	24cc#` 24ee`LL	.
@@ -349,9 +355,11 @@
 =33	=33	=33
 (8BL	8cc# (8eeL	>
 8BBJ)	8b 8dd#J)	]]
-8r	(24eLL	.
+!	!LO:TUP:a	!
+8r	(24eLL<	.
 .	24b 24ddn)	<
 .	24b` 24dd`JJ	.
+!	!LO:TUP:a	!
 8G#'	24b` 24dd`LL	.
 .	24b` 24dd`	.
 .	24b` 24dd`JJ	[
@@ -369,8 +377,8 @@
 =35	=35	=35
 *^	*	*
 4ryyy	4D 4A]	8bL	.
-.	.	(32gg#qq	.
-.	.	16ff#L)	.
+.	.	(32gg#qqP	.
+.	.	16ff#pL)	.
 .	.	32eeL	.
 .	.	32ddJJJ	.
 (8AL	4E	8cc#L	.
@@ -409,14 +417,14 @@
 .	(32g#k	.
 8c#	16.a	.
 .	32eeJJk	.
-.	(8eeTqq	.
-8B	4dd)	.
+.	(8eeTqqP	.
+8B	4ddp)	.
 8g#J	.	.
 .	cc#32qLLL	.
 .	dd32qJJJ	.
 =40	=40	=40
-.	(dd8qq	.
-8aL	4cc#))	.
+.	(dd8qqP	.
+8aL	4cc#p))	.
 16.eL	.	.
 32c#JJk	.	.
 4A)	8r	.
@@ -450,8 +458,8 @@
 8AJ	(16.dd	.
 .	32cc#JJk)	.
 =44	=44	=44
-.	(8cc#qq	>
-8eL	4b))	.
+.	(8cc#qqP	>
+8eL	4bp))	.
 16.BL	.	]
 32G#JJk	.	.
 4E)	4r	.
@@ -460,8 +468,8 @@
 *clefG2	*	*
 (16.eLL	.	.
 32f#JJk	.	.
-8gn)	(16eeLL]	.
-.	32eeL	.
+8gn)	16eeLL]	.
+.	(32eeL	.
 .	32ff#JJJ	.
 8r	32ggnLLL	.
 .	32ff#	.
@@ -576,8 +584,8 @@
 .	.	24dd	.
 .	.	24cc#JJ)	.
 =55	=55	=55	=55
-8r	2A#	16r	.
-.	.	(16cc#LL	>
+8r	2A#	16r	>
+.	.	(16cc#LL	.
 (8f#L	.	16a#	.
 .	.	16cc#JJ	.
 !	!	!LO:TUP:a	!
@@ -590,19 +598,20 @@
 .	.	24cc#JJ)	]
 !!LO:LB:g=z
 =56	=56	=56	=56
+!!!ONB: Verovio does not let tuplet split beams yet.
 !	!	!LO:TUP:r=8:a	!
 8r	(4B	24r	p
 .	.	(24bLL	.
-.	.	24cc#	.
+.	.	24cc#JJ	.
 !	!	!LO:TUP:r=8:a	!
-4f#	.	24dd	.
+4f#	.	24ddLL	.
 .	.	24cc#	.
 .	.	24bJJ)	.
 *	*	*Xtuplet	*
 .	4c#	24r	.
 .	.	(24a#LL<	.
-.	.	24b	.
-[8f#	.	24cc#	.
+.	.	24bJJ	.
+[8f#	.	24cc#LL	.
 .	.	24b	.
 .	.	24a#JJ)	.
 =57	=57	=57	=57
@@ -642,10 +651,10 @@
 8r	4ryyy	[4bb)	.
 (<8D [8B	.	.	.
 =60	=60	=60	=60
-4ryyy	4E 4B])	(16.bbLL]	.
+4E 4B])	4ryy	(16.bbLL]	.
 .	.	32ff#JJk	.
-.	.	(32aaqq	.
-.	.	16ggLL)	.
+.	.	(32aaqqP	.
+.	.	16ggpLL)	.
 .	.	32ff#L	.
 .	.	32eeJJJ	.
 (8BL	4F#	8ddL	.
@@ -657,18 +666,23 @@
 =61	=61	=61
 8B`L)	4b	p
 8BB`J	.	.
+*	*tuplet	*
+!	!LO:TUP:a	!
 8r	(24f#LL	.
 .	24dd 24ff#)	.
 .	24dd` 24ff#`JJ	<
+!	!LO:TUP:a	!
 8B'	24dd` 24ff#`LL	.
 .	24dd` 24ff#`	.
 .	24dd` 24ff#`JJ	[
 =62	=62	=62
 (8c#L	8dd (8ff#L	>
 8C#J)	8cc# 8eeJ)	]]
+!	!LO:TUP:a	!
 8r	(24f#LL	<
 .	24cc# 24ee)	.
 .	24cc#` 24ee`JJ	.
+!	!LO:TUP:a	!
 8A#'	24cc#` 24ee`LL	.
 .	24cc#` 24ee`	.
 .	24cc#` 24ee`JJ	[
@@ -686,8 +700,8 @@
 .	32bbJJJ	.
 =64	=64	=64
 *^	*	*
-.	.	(32aaqq	.
-4ryy	4E 4B])	8.ggnTL)	.
+.	.	(32aanqqP	.
+4E 4B])	4ryy	8.ggnTpL)	.
 .	.	32ff#LL	>
 .	.	32eeJJJ	.
 (8BL	4F#	8ddL	.
@@ -779,8 +793,8 @@
 8dJ	.	.
 .	16ff#Jk	.
 =74	=74	=74
-.	(ff#8qq	.
-(8aL)	4ee))	>
+.	(ff#8qqP	.
+(8aL)	4eep))	>
 16.eL	.	.
 32c#JJk	.	]
 4A)	8r	.
@@ -808,14 +822,14 @@
 .	32c#k	.
 8F#	16.d	.
 .	32aJJk	.
-.	(a8qq	.
-8E	4gT)	.
+.	(a8qqP	.
+8E	4gTp)	.
 8c#J	.	.
 .	f#32qLLL	.
 .	g32qJJJ	.
 =78	=78	=78
-.	(g8qq	.
-8dL	4f#))	.
+.	(g8qqP	.
+8dL	4f#p))	.
 16.AL	.	.
 32F#JJk	.	.
 4D)	8r	.
@@ -840,17 +854,17 @@
 (8f#	16.ddd	.
 .	32ccc#JJk	[[
 =81	=81	=81
-8gL	16.ccc#LL	.
-.	32bbk	.
-8f#	16.bb	.
-.	32aaJJk	.
-8e	16.aaLL	.
-.	32ggk	.
-8dJ	16.gg	.
-.	32ff#JJk	.
+8gL	(16.ccc#LL	.
+.	32bbk)	.
+8f#	(16.bb	.
+.	32aaJJk)	.
+8e	(16.aaLL	.
+.	32ggk)	.
+8dJ	(16.gg	.
+.	32ff#JJk)	.
 =82	=82	=82
-.	(ff#8qq	>
-8aL	4ee))	.
+.	(ff#8qqP	>
+8aL	4eep))	.
 8eJ	.	]
 4A)	4r	.
 =83	=83	=83
@@ -875,15 +889,16 @@
 .	16f#Jk)	.
 !!LO:LB:g=z
 =85	=85	=85
+!!!ONB: Verovio does not let tuplet split beams yet.
 *^	*	*
 *	*	*tuplet	*
 !	!	!LO:TUP:r=8	!
 16r	4A	24r	.
 .	.	(24eeLL	.
 16gLL	.	.	.
-.	.	24dd	.
+.	.	24ddJJ	.
 !	!	!LO:TUP:r=8	!
-16e	.	24cc#	.
+16e	.	24cc#LL	.
 .	.	24dd	.
 16gJJ	.	.	.
 .	.	24eeJJ)	.
@@ -891,9 +906,9 @@
 16r	4A	24r	.
 .	.	(24eeLL	.
 (16gLL	.	.	.
-.	.	24dd	.
+.	.	24ddJJ	.
 !	!	!LO:TUP:r=8	!
-16e	.	24cc#	.
+16e	.	24cc#LL	.
 .	.	24dd	.
 16gJJ	.	.	.
 .	.	24eeJJ)	.
@@ -920,8 +935,8 @@
 (16.aLL	.	.
 32gJJk	.	.
 8aL)	8cc#)	.
-.	(>(<bb32qq	.
-8f#`J	16aaLL)	.
+.	(>(<bb32qqP	.
+8f#`J	16aapLL)	.
 .	32ggL	.
 .	32ff#JJJ	.
 =89	=89	=89
@@ -973,8 +988,8 @@
 8dJ	.	.
 .	16ff#Jk	.
 =94	=94	=94
-.	(ff#8qq	>
-8a`L)	4ee))	.
+.	(ff#8qqP	>
+8a`L)	4eep))	.
 8A`J	.	]
 8r	(32aaLLL	f
 .	32ff#	.
@@ -1001,10 +1016,10 @@
 8F# [8d	8a)	.
 =97	=97	=97
 *^	*	*
-.	.	(a#16qq	.
-8dL]	4G	8bL)	.
-.	.	(aan32qq	.
-(8g	.	(16ggL)	.
+.	.	(a#16qqP	.
+8dL]	4G	8bpL)	.
+.	.	(aan32qqP	.
+(8g	.	(16ggpL)	.
 .	.	32ff#L	.
 .	.	32eeJJJ	.
 8f#	4A	8ddL	.
@@ -1048,20 +1063,24 @@
 8BB- 8B-J	16dd	.
 .	16g#JJ	.
 =102	=102	=102
-.	(g#8qq	>
-4AA 4A	4a))	.
+.	(g#8qqP	>
+4AA 4A	4ap))	.
+!	!LO:TUP:a	!
 8r	(24aLL	] p
-.	24ff#X 24aa)	<
-.	24ff#` 24aa`JJ	.
+.	24ff#X 24aa)	.
+.	24ff#` 24aa`JJ	<
+!	!LO:TUP:a	!
 8d#'	24ff#` 24aa`LL	.
 .	24ff#` 24aa`	.
 .	24ff#` 24aa`JJ	[[
 =103	=103	=103
 (8eL	8ff# (8aaL	>
 8EJ)	8ee 8gg#J)	]
+!	!LO:TUP:a	!
 8r	(24aLL	<
 .	24ee 24ggn)	.
 .	24ee` 24gg`JJ	.
+!	!LO:TUP:a	!
 8c#'	24ee` 24gg`LL	[
 .	24ee` 24gg`	.
 .	24ee` 24gg`JJ	.
@@ -1079,9 +1098,9 @@
 !!LO:LB:g=z
 =105	=105	=105
 *^	*	*
-4ryy	4G 4d]	(8eeL)	.
-.	.	(ccc#32qq	.
-.	.	16bbL)	.
+4G 4d]	4ryy	(8eeL)	.
+.	.	(ccc#32qqP	.
+.	.	16bbpL)	.
 .	.	32aaL	.
 .	.	32ggJJJ	.
 (8dL	4A	8ff#L	.
@@ -1120,8 +1139,8 @@
 .	32ddJJJ	.
 =109	=109	=109
 *^	*	*
-.	.	(cc#32qq	.
-4GG 4D]	4r	8.bTL)	.
+.	.	(cc#32qqP	.
+4GG 4D]	4ryy	8.bTpL)	.
 .	.	32aLL	.
 .	.	32gJJJ	.
 (8DL	4AA	8f#L	>
@@ -1138,9 +1157,10 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 3
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/03/05
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2008/03/05
+!!!EEV: 2021/02/01
