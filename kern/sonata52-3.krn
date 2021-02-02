@@ -17,6 +17,7 @@
 *M6/8	*M6/8	*
 *MM180	*MM180	*
 =1-	=1-	=1-
+!	!	!LO:DY:rj
 4G` 4B`	8r	p
 .	(8ggL	.
 8r	8gJ)	.
@@ -37,6 +38,7 @@
 .	(8ggL	.
 8r	8gJ)	.
 (4.BB 4.B	8r	.
+!	!	!LO:DY:rj
 .	(16ff#LL	f
 .	16gg	.
 .	16bb	.
@@ -72,8 +74,8 @@
 =7	=7	=7
 4.GG 4.G)	4.b 4.bb	.
 *clefG2	*	*
-4B 4d	8r	.
-.	(16ff#LL	p
+4B 4d	8r	p
+.	(16ff#LL	.
 .	16gg	.
 8r	16bb	.
 .	16ggJJ	.
@@ -94,8 +96,8 @@
 .	8ccc`	.
 8g`	8bb`J	.
 =10	=10	=10
-.	(bb8qq	.
-4cc (4ee	(4aa)	.
+.	(bb8qqP	.
+4cc (4ee	(4aap)	.
 8b 8dd)	8gg)	.
 4r	8dd`L	.
 .	8ddd`	.
@@ -110,8 +112,8 @@
 !!LO:LB:g=z
 =12	=12	=12
 *^	*	*
-.	.	(bb8qq	.
-4cc (4ee	4.ryy	()4aa	.
+.	.	(bb8qqP	.
+4cc (4ee	4.ryy	(4aap)	.
 8b 8dd)	.	8gg)	.
 4a (4cc	4.d	(16ff#LL	.
 .	.	16dd	.
@@ -386,14 +388,14 @@
 .	8b`J	.
 .	8ee`L	.
 .	(8ggsSSs	.
-.	8bb`J)	.
+.	8bb`J)	[
 =40	=40	=40
-4.A 4.f#	(8aaL	.
+4.A 4.f#	(8aaL	>
 .	8ff#	.
 .	8ddJ)	.
 4.A 4.e	(8ggL	.
 .	8ee	.
-.	8cc#J)	.
+.	8cc#J)	]]
 =41	=41	=41
 (8dL	(8ddL	p
 8A	8a	.
@@ -495,7 +497,7 @@
 8r	4.dd	(8aL]	.
 (8BL	.	8g#)	.
 8BBJ)	.	8g#`J	.
-4.A (4.c	8cc`L	4.ryy	.
+4.A (4.c	8cc`>L	4.ryy	.
 .	(16fnL	.	.
 .	16gnJ	.	.
 .	8f`J)	.	.
@@ -713,7 +715,7 @@
 4G	8r	8r	.
 .	8bb-L	(16ggLL	.
 .	.	16ddJ	.
-8r	8bb-J	8ggJ)	.
+8r	8bb-J	8gg`J)	.
 4fn	8r	8r	.
 .	8bbnL	(16aa-LL	.
 .	.	16ddJ	.
@@ -834,8 +836,8 @@
 8g`	8bb`J	.
 !!LO:LB:g=z
 =88	=88	=88
-.	(bb8qq	.
-4cc (4ee	(4aa)	.
+.	(bb8qqP	.
+4cc (4ee	(4aap)	.
 8b 8dd)	8gg)	.
 4r	8dd`L	.
 .	8ddd`	.
@@ -849,8 +851,8 @@
 8g`	8bb`J	.
 =90	=90	=90
 *^	*	*
-.	.	(bb8qq	.
-4.ryy	4cc (4ee	(4aa)	.
+.	.	(bb8qqP	.
+4.ryy	4cc (4ee	(4aap)	.
 .	8b 8dd)	8gg)	.
 4a (4cc	4.d	(16ff#LL	.
 .	.	16dd	mf
@@ -902,24 +904,24 @@
 8r	8r	.
 =95	=95	=95
 !	!	!LO:DY:rj
-8r	4B` 4g`	f
+8r	4B`> 4g`>	f
 *clefF4	*	*
 (8GGL	.	.
 8GGGJ)	8r	.
-8r	4e` 4cc`	.
+8r	4e`> 4cc`>	.
 (16GLL	.	.
 16F#J	.	.
 8G`J)	8r	.
 =96	=96	=96
-8r	4d` 4b`	.
+8r	4d`> 4b`>	.
 (8GGL	.	.
 8GGGJ)	8r	.
-8r	4c` 4f#`	.
+8r	4c`> 4f#`>	.
 (16GLL	.	.
 16F#J	.	.
 8G`J)	8r	.
 =97	=97	=97
-8r	4B` 4g`	.
+8r	4B`> 4g`>	.
 (8GGL	.	.
 8GGGJ)	8r	.
 8r	4e 4cc	.
@@ -1006,7 +1008,8 @@
 .	16f#	.
 .	16gJJ)	.
 =105	=105	=105
-4.A 4.c# 4.e)	N(16ggLL	.
+!!!ONB: Cross-staff slur starts here.
+4.A 4.c# 4.e)	16ggLL	.
 .	16aa	.
 .	16gg	.
 .	16ff#	.
@@ -1020,7 +1023,7 @@
 16f#	8r	.
 16eJJ	.	.
 =106	=106	=106
-4.d 4.f# 4.aN)	(16cccnLL	.
+4.d 4.f# 4.a	(16cccnLL	.
 .	16ddd	.
 .	16ccc	.
 .	16bb	.
@@ -1081,8 +1084,8 @@
 .	.	8dd)	.
 .	.	[8cccnJ	[
 =113	=113	=113	=113
-4.g)	4.g)	(16ccc]LL	f
-.	.	16bb	.
+4.g)	4.g)	16ccc]LL	f
+.	.	(16bb	.
 .	.	16ddd	.
 .	.	16ccc	.
 .	.	16bb	.
