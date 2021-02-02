@@ -4,7 +4,7 @@
 !!!OTL: Sonata No. 34 in D major
 !!!SCT: Hob. XVI:33
 !!!OMV: Mvmt. 1
-!!!OMD: Allegro
+!!!OMD: Allegro.
 !!!ODT: ~1777
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -72,8 +72,8 @@
 4AA	8ee` 8gg`L	.
 .	8cc#X` 8ee`J	.
 =8	=8	=8
-4D	4cc#^< (4ee^<	.
-8DD	8dd 8ff#)	.
+(4D	4cc#^< (4ee^<	.
+8DD)	8dd 8ff#)	.
 8r	(32ddLLL	.
 .	32ff#	.
 .	32aa	.
@@ -499,8 +499,8 @@
 .	(32aaLL	.
 .	32bbJJJ	.
 =57	=57	=57
-.	ccc#32qq	.
-8e 8g# 8bL	2bbTT	.
+.	ccc#32qqP	.
+8e 8g# 8bL	2bbpTT	.
 8e 8g# 8b	.	.
 8e 8g# 8b	.	.
 8e 8g# 8bJ	.	.
@@ -520,6 +520,7 @@
 16a	.	.
 16c#	8eeJ)	.
 16aJJ	.	.
+!	!LO:TR:acc=none	!
 16dLL	(8ff#TL	.
 16a	.	.
 16c#	8eeJ)	.
@@ -550,6 +551,7 @@
 16a	.	.
 16c#	8eeJ)	.
 16aJJ	.	.
+!	!LO:TR:acc=none	!
 16dLL	(8ff#TL	.
 16a	.	.
 16c#	8eeJ)	.
@@ -608,7 +610,7 @@
 =73	=73	=73	=73
 4BB	4BB	(8dL	.
 .	.	8f#J)	.
-4r	4r	8r	.
+4r	4ryy	8r	.
 .	.	(32dLLL	.
 .	.	32f#	.
 .	.	32b	.
@@ -655,7 +657,7 @@
 4r	4r	.
 *clefF4	*	*
 =80	=80	=80
-[2D	16r	f
+[<2D	16r	f
 .	(16cnLL	.
 .	16B	.
 .	16cJJ	.
@@ -912,8 +914,8 @@
 *clefF4	*	*
 !!LO:LB:g=z
 =110	=110	=110
-4.c#)	(16aLL)	f
-.	16b	.
+4.c#)	16aLL)	f
+.	(16b	.
 .	16g#	.
 .	16bJJ	.
 .	16aLL	.
@@ -931,13 +933,13 @@
 .	16aJJ	.
 =112	=112	=112
 *^	*	*
-(4.e)	[2A	(16gnLL)	.
+4.e)	[2A	(16gnLL)	.
 .	.	16a	.
 .	.	16f#	.
 .	.	16aJJ	.
 .	.	16gLL	.
 .	.	16a	.
-8d#	.	16f#	.
+(8d#	.	16f#	.
 .	.	16aJJ	.
 =113	=113	=113	=113
 8eL	2A_	16gLL	.
@@ -963,10 +965,10 @@
 !!LO:LB:g=z
 =116	=116	=116	=116
 4e)	4A]	4g)	.
-4r	4r	4r	.
+4r	4ryy	4r	.
 *v	*v	*	*
 =117	=117	=117
-8r>	(32A<LLL	p
+8r>	(32A<LLL<	p
 .	32c#<	.
 .	32e<	.
 .	32g<JJJ	.
@@ -1098,12 +1100,12 @@
 =133	=133	=133
 8r	(4e^ 4g^	.
 (8A#L	.	.
-8BJ)	8dn 8f#)	.
+8BJ)	8dn 8f#))	.
 8r	(>8d	.
 !!LO:LB:g=z
 =134	=134	=134
 2r	(16gLL	<
-.	16f#))	.
+.	16f#)	.
 .	(16a	.
 .	16gJJ)	.
 .	(16bLL	.
@@ -1162,12 +1164,12 @@
 8AA] 8E)	8c#)	]]
 8r	8r	.
 4r	8r	.
-.	32ALLL	f
+.	(32ALLL	f
 .	32c#	.
 .	32e	.
 .	32aJJJ	.
 =142	=142	=142
-8AA` 8C#` 8E` 8G`	8e`	.
+8AA` 8C#` 8E` 8G`	8e`)	.
 8r	(32eLLL<	.
 .	32g	.
 .	32cc#	.
@@ -1205,7 +1207,7 @@
 .	16dJJ)	.
 !!LO:LB:g=z
 =146	=146	=146
-16DLL	(2cn	.
+(16DLL	(2cn	.
 16A	.	.
 16G	.	.
 16AJJ	.	.
@@ -1214,7 +1216,7 @@
 16D	.	.
 16F#JJ	.	.
 =147	=147	=147
-4G	16BLL)	.
+4G)	16BLL)	.
 .	(16e	.
 .	16d#	.
 .	16eJJ	.
@@ -1248,7 +1250,7 @@
 16fJJ	.	.
 16BLL	8r	.
 16f	.	.
-16B	(8g#	.
+16B	(<8g#	.
 16fJJ	.	.
 =151	=151	=151
 16c#LL	8a`L)	.
@@ -1267,7 +1269,7 @@
 16fJJ	.	.
 16BLL	8r	.
 16f	.	.
-16B	(8g#	.
+16B	(<8g#	.
 16fJJ	.	.
 =153	=153	=153
 16c#LL	8a`L)	.
@@ -1279,7 +1281,7 @@
 16c#	8gn`J	.
 16eJJ	.	.
 =154	=154	=154
-(16dLL)	8f#`L	.
+(16dLL)	8f#X`L	.
 16f#	.	.
 16d	8aa`J	.
 16f#JJ	.	.
@@ -1316,7 +1318,7 @@
 16aJJ	.	.
 !!LO:LB:g=z
 =158	=158	=158
-4d)	N(>16ff#LL	f
+4d)	>16ff#LL	f
 .	16gg	.
 .	16aa	.
 .	16ff#JJ	.
@@ -1353,7 +1355,7 @@
 16F#	.	.
 16EJJ	.	.
 =162	=162	=162
-4D	(16ff#LLN)	.
+4D	(16ff#LL	.
 .	16gg	.
 .	16aa	.
 .	16ff#JJ	.
@@ -1487,8 +1489,8 @@
 4GG	16d#LL	.
 .	16e	.
 .	16f#	.
-.	16eJJ	.
-4r	(16gLL)	.
+.	16eJJ)	.
+4r	(16gLL	.
 .	16f#)	.
 .	(16a	.
 .	16gJJ)	.
@@ -1516,25 +1518,25 @@
 *	*clefG2	*clefG2
 *MM120	*MM120	*MM120
 !	!LO:TX:a:i:t=allegro	!
-.	(d#8q	.
+.	(>d#8q	.
 8r	8dd#)	f
 =180	=180	=180
-.	(e8q	.
+.	(>e8q	.
 2r	8eeL)	.
-.	(f#8q	.
+.	(>f#8q	.
 .	8ff#J)	.
-.	(g8q	.
+.	(>g8q	.
 .	8ggL)	.
-.	(a#8q	.
+.	(>a#8q	.
 .	8aa#J)	.
 =181	=181	=181
-.	(b8q	.
+.	(>b8q	.
 2r	8bbL)	.
-.	(cc#8q	.
+.	(>cc#8q	.
 .	8ccc#J)	.
-.	(dd8q	.
+.	(>dd8q	.
 .	8dddL)	.
-.	(g#8q	.
+.	(>g#8q	.
 .	8gg#J)	.
 *clefG2	*	*
 !!LO:LB:g=z
@@ -1634,10 +1636,11 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dimin.
 !!!RDF**kern: N = linked
 !!!SMS: Universal Edition 2, Haydn Piano Sonatas, Vol. 2, No. 11
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/08/27
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/30
+!!!EEV: 2021/01/02
