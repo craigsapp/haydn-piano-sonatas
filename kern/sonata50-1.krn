@@ -18,7 +18,7 @@
 *>A	*>A	*>A
 =1-	=1-	=1-
 .	(ccc#8q	.
-4D 4F# 4A 4d	8ddd`L)	f
+4D 4F# 4A 4d	8ddd`^L)	f
 .	8dd`	.
 *clefG2	*	*
 8r	8dd`	.
@@ -29,7 +29,7 @@
 8f#) 8aJ	8ddJ)	.
 =2	=2	=2
 .	(ccc#8q	.
-4d 4f# 4a	8ddd`L)	.
+4d 4f# 4a	8ddd`^yL)	.
 .	8dd`	.
 8r	8dd`	.
 8f#` 8a`	8dd`J	.
@@ -71,12 +71,12 @@
 16f#	8dd`J	.
 16aJJ	.	.
 .	(ff#8q	.
-16gLL	()8eeL	.
+16gLL	(8eeL)	.
 16a	.	.
 16f#	8dd)	.
 16aJJ	.	.
 .	(ff#8q	.
-16gLL	()8ee	.
+16gLL	(8ee)	.
 16a	.	.
 16f#	8ddJ)	.
 16aJJ	.	.
@@ -91,18 +91,18 @@
 16f#	8dd`J	.
 16aJJ	.	.
 .	(ff#8q	.
-16gLL	()8eeL	.
+16gLL	(8eeL)	.
 16a	.	.
 16f#	8dd)	.
 16aJJ	.	.
 .	(ff#8q	.
-16gLL	()8ee	.
+16gLL	(8ee)	.
 16a	.	.
 16f#	8ddJ)	.
 16aJJ)	.	.
 =7	=7	=7
 *	*^	*
-8b`L	8gg`L	8dd	.
+8b`L>	8gg`L	8dd	.
 (8bJ	(8ggJ	4dd	.
 8a`L)	8ff#`L)	.	.
 (8aJ	(8ff#J	4dd	.
@@ -478,7 +478,8 @@
 .	16ffn	.
 .	16bb-JJ	.
 16r	8dd)	.
-N(16B-LL	.	.
+!!!ONB: Cross-staff slur starting here
+16B-LL	.	.
 16d	8r	.
 16fJJ	.	.
 8b-	16r	.
@@ -494,7 +495,7 @@ N(16B-LL	.	.
 .	16ff	.
 .	16bb-	.
 .	16dddJJ	.
-.	8fffN)	.
+.	8fff	.
 .	8r	.
 .	4r	.
 *clefF4	*	*
@@ -607,12 +608,12 @@ N(16B-LL	.	.
 *>B	*>B	*>B
 *clefG2	*	*
 (g#8q	.	.
-8a`L)	4r	.
+8a`L)	4r	f
 8A`	.	.
 8A`	8r	.
-8A`J	8cc#` 8aa`	f
-8BTL	8dd^< (8gg#^<L	.
-8A	8cc# 8aa)	.
+8A`J	8cc#` 8aa`	.
+(8BTL	8dd^< (8gg#^<L	.
+8A)	8cc# 8aa)	.
 (8BT	8dd^< (8gg#^<	.
 8AJ)	8cc# 8aaJ)	.
 =42	=42	=42
@@ -753,10 +754,10 @@ N(16B-LL	.	.
 16G#	.	.	.
 16A#	.	.	.
 16AA#JJ)	.	.	.
-16BLL	.	4dn	.
+(16BLL	.	4dn	.
 16A#	.	.	.
 16B	.	.	.
-16BBJJ	.	.	.
+16BBJJ)	.	.	.
 *	*v	*v	*
 !!LO:LB:g=z
 =51	=51	=51
@@ -791,7 +792,7 @@ N(16B-LL	.	.
 .	16b	.
 8F#` 8A#`J	16cc#	.
 .	16f#JJ	.
-8F#` 8B`L	16ddLL	.
+8F#` 8B`L	16ddLL>	.
 .	16cc#	.
 8F#` 8B`J	16dd	.
 .	16f#JJ)	.
@@ -830,8 +831,8 @@ N(16B-LL	.	.
 .	16ff#	.
 .	16bbJJ	.
 .	16ddLL	.
-.	(16ff#	.
-.	16b)	.
+.	16ff#	.
+.	16b	.
 .	16ddJJ)	.
 =55	=55	=55
 2E 2G 2cn	16r	.
@@ -917,7 +918,7 @@ N(16B-LL	.	.
 *clefF4	*	*
 !!LO:LB:g=z
 =61	=61	=61
-4D 4F# 4A 4d	8ddd`L)	f
+4D 4F# 4A 4d	8ddd`^L)	f
 .	8dd`	.
 *clefG2	*	*
 8r	8dd`	.
@@ -928,7 +929,7 @@ N(16B-LL	.	.
 8f#) 8aJ	8ddJ)	.
 =62	=62	=62
 .	(ccc#8q	.
-4d 4f# 4a	8ddd`L)	>
+4d 4f# 4a	8ddd`^L)	>
 .	8dd`	.
 8r	8dd`	.
 8f#` 8a`	8dd`J	.
@@ -1349,7 +1350,7 @@ N(16B-LL	.	.
 .	16ggJJ	[[
 =87	=87	=87
 *^	*	*
-2ryy	(<16AALL	8aa`L)	.
+2ryy	(<16AALL	8aa`^L)	.
 .	16C#	.	.
 .	16BB	8a`	.
 .	16DJJ	.	.
@@ -1478,7 +1479,7 @@ N(16B-LL	.	.
 (16B-XLL	.	.
 16d	8r	.
 16fnJJ	.	.
-8b-)	16r	.
+8b-/)	16r	.
 .	(16ddLL	.
 8r	16ff	.
 .	16bb-JJ	.
@@ -1511,7 +1512,7 @@ N(16B-LL	.	.
 .	16fJJ	.
 8BBB` 8BB`L	16BLL	.
 .	16d	.
-8GGG#` 8GG#`J	16G#	.
+8GGG#` 8GG#X`J	16G#	.
 .	16BJJ)	.
 =96	=96	=96
 1AAA 1AA	8r	.
@@ -1528,7 +1529,7 @@ N(16B-LL	.	.
 8E`	.	.
 8G`J	.	.
 *clefG2	*	*
-(2A 2c# 2e 2g	(2ee	f >
+(2A 2c# 2e 2g	(2eeT	f >
 =98	=98	=98
 .	16dd8qLL	.
 .	16ee8qJJ	.
@@ -1559,7 +1560,7 @@ N(16B-LL	.	.
 16cc#	16eee	.
 16a	16ccc#	.
 16bJJ	16dddJJ	.
-8g`)	8bb`)	.
+8g/`)	8bb`)	.
 8r	8r	.
 (16gLL>	(16bbLL	.
 16a	16ccc#	.
@@ -1612,4 +1613,4 @@ N(16B-LL	.	.
 !!!ENC: Craig Stuart Sapp
 !!!END: 2011/11/09
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/30
+!!!EEV: 2021/02/02
