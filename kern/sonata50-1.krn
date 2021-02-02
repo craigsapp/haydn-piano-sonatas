@@ -1606,6 +1606,7 @@ N(16B-LL	.	.
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**kern: N = linked
+!!!ONB: linked (cross-staff slurs not encoded)
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 2, No. 17
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp

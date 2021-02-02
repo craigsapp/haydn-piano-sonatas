@@ -56,7 +56,8 @@
 .	8cc#	.
 *clefF4	*	*
 =8	=8	=8
-()4d	4dd)w	.
+!	!LO:MOR:acc=none	!
+(4d)	4dd)w	.
 8D)	8r	.
 !!LO:LB:g=z
 =:|!|:	=:|!|:	=:|!|:
@@ -280,8 +281,8 @@
 4r	8ddd`)	>
 .	(8b 8dd	.
 =47	=47	=47
-.	(16qqb/ 16qqdd/	.
-(4c	8a/ 8cc/)	.
+.	(16qqb/ 16qqdd/P	.
+(4c	8a/ 8cc/p)	.
 .	4g 4b	.
 4d	.	.
 .	8f# 8a	.
@@ -498,7 +499,8 @@
 4r	(8gL	.
 .	8b	.
 8r	8dd	.
-(8B 8d	8gJ	.
+!	!	!LO:DY:b=2:rj
+(8B 8d	8gJ	mf
 =75	=75	=75
 4A 4c)	4g	.
 4r	8f#L)	.
@@ -594,9 +596,9 @@
 8r	(4cc	.
 (8f#XL	.	.
 8gJ)	8b-L)	.
-8r	8dd`J	<
+8r	8dd`J	.
 =94	=94	=94
-2r	(8ee-L	.
+2r	(8ee-L	<
 .	8gg	.
 .	8bb-	.
 .	8ddJ	.
@@ -629,11 +631,11 @@
 =100	=100	=100
 8r	(4g	.
 (8c#L	.	.
-8dJ)	(8f#L)	.
-8r	8aa`J)	.
+8dJ)	8f#L)	.
+8r	8aa`J	.
 =101	=101	=101
 8r	(4cc	.
-(8f#L	.	.
+(8f#XL	.	.
 8gJ)	8b-L)	.
 8r	8dd`J	<
 =102	=102	=102
@@ -723,21 +725,21 @@
 16A	.	.
 16dJJ	.	.
 8D`)	8r	.
-N(>16g>LL	8rccc	.
+>16g>LL	8rccc	.
 16b>JJ	.	.
 =114	=114	=114
-2re>	16ddLL	p
+2re>	16ddLL>	p
 .	16gg	.
 .	16bb	.
 .	16dddJJ	.
-.	16cccLL	.
+.	16cccLL>	.
 .	16bb	.
 .	16aa	.
 .	16ggJJ	.
 =115	=115	=115
 !	!	!LO:HP:a
 [4d> (4b>	4gg	>
-8d>] 8a>)	8ff#N	]
+8d>] 8a>)	8ff#	]
 8r>	N16cccLL	.
 .	16aaJJ	.
 =116	=116	=116
@@ -745,7 +747,7 @@ N(>16g>LL	8rccc	.
 .	16ccJJ	.
 16a>LL	8rff	.
 16f#>JJ	.	.
-8d>`LN)	8raa	.
+8d>`L	8raa	.
 8f#>J	8a 8dd	.
 =117	=117	=117
 !	!	!LO:HP:a
@@ -905,15 +907,15 @@ N(>16g>LL	8rccc	.
 .	16ggL	.
 .	16bbJJ	.
 8r	8ddd`)	.
-8BB	8b 8dd	.
+8BB	(8b 8dd	.
 =136	=136	=136
-(4C	(16b 16ddLL	.
-.	16a) 16ccJJ	.
+.	(16qqb 16qqddP/	.
+(4C	8a 8cc)/	.
 .	4g 4b	.
 4D	.	.
 .	8f# 8a	.
 =137	=137	=137
-4G	4g	.
+4G	4g)	.
 8GG)	8r	.
 16e>LL	8rff	p
 16g#>JJ	.	.
@@ -923,11 +925,11 @@ N(>16g>LL	8rccc	.
 8re>	16gg#	.
 .	16bbJJ	.
 8re>	8ddd`L	.
-8g#>`	8b` 8dd`J	.
+8g#>	8b` 8dd`J	.
 =139	=139	=139
 (4a>	4b (4dd	.
 8A)	8a 8cc)	.
-8r	N(16cccLL	.
+8r	16cccLL>	.
 .	16aaJJ	.
 !!LO:LB:g=z
 =140	=140	=140
@@ -935,7 +937,7 @@ N(>16g>LL	8rccc	.
 .	16ccJJ	.
 16a>LL	8rff	.
 16f#>JJ	.	.
-8d>`LN)	8raa	.
+8d>`L	8raa	.
 8f#>`J	8a` 8cc`	.
 =141	=141	=141
 (4g>	(4a	.
@@ -948,10 +950,10 @@ N(>16g>LL	8rccc	.
 .	16aJJ	.
 8r	16g#LL<	.
 .	16a	.
-8c	16ee	.
+(8c	16ee	.
 .	16aJJ	.
 =143	=143	=143
-4d	16ff#LL	.
+4d)	16ff#LL	.
 .	16dd	.
 .	16cc	.
 .	16bJJ	.
@@ -972,7 +974,7 @@ N(>16g>LL	8rccc	.
 *^	*	*
 4g	4.d	4bt	.
 8f#)	.	8a)	.
-8r	8r	8d`	.
+8r	8r	8d`>	.
 *v	*v	*	*
 =146	=146	=146
 (16GLL	8g`L	f
@@ -1039,10 +1041,12 @@ N(>16g>LL	8rccc	.
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
 !!!RDF**kern: N = linked
+!!!ONB: linked (cross-staff slurs not encoded)
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 1
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/03/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/29
+!!!EEV: 2021/02/01
