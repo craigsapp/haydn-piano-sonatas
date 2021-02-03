@@ -38,7 +38,8 @@
 *^	*	*
 4r	4ryy	(2f#)	.
 2.d	(4d	.	.
-.	4B)	8.gL	.
+.	.	(8qa	.
+.	4B)	8.gL)	.
 .	.	16f#k	.
 .	4G	8.g	.
 .	.	16bJk	.
@@ -314,9 +315,8 @@
 12E	.	.
 12A#J	.	.
 .	(<8qqee/ 8qeee/	.
-12BBL	8ee 8eeeL)	.
+12BBL	4dd 4ddd)	.
 12D	.	.
-.	8dd 8dddJ	.
 12BJ	.	.
 12DL	8cc# 8ccc#L	.
 12F#	.	.
@@ -365,8 +365,8 @@
 12d	.	.
 12eJ	.	.
 =28	=28	=28
-4A` 4c#`	12r	.
-.	(12ccc#L	mf
+4A` 4c#`	12r	mf
+.	(12ccc#L	.
 .	12bbJ	.
 4r	12aaL	.
 .	12gg#	.
@@ -385,8 +385,8 @@
 4r	12aa`L)	.
 .	(12gg#	fz
 .	12ff#J	.
-4r	12ee`L)	fz
-.	(12ff#	.
+4r	12ee`L)	.
+.	(12ff#	fz
 .	12eeJ	.
 4G#` 4B` 4e`	12dd`L)	.
 .	(12cc#	fz
@@ -721,7 +721,7 @@
 *tuplet	*	*
 12AL	2dd)	f
 12d	.	.
-12f#J	.	.
+12f#XJ	.	.
 12AL	.	.
 12d	.	.
 12f#J	.	.
@@ -785,7 +785,7 @@
 12B-J	.	.
 12AL	4b-` 4bb-`	.
 12G	.	.
-12F#J	.	.
+12F#XJ	.	.
 12GL	4b-` 4bb-`	.
 12A	.	.
 12B-J	.	.
@@ -883,7 +883,7 @@
 .	12ddJ	.
 .	12fL	.
 .	12a	.
-.	12cc#J	.
+.	12cc#XJ	.
 =65	=65	=65
 (2.BBB- 2.BB-	12fnL	.
 .	12b-	.
@@ -900,6 +900,7 @@
 !!LO:LB:g=z
 =66	=66	=66
 *	*tuplet	*
+!!!ONB: slur from nowhere?
 4CCn` 4Cn`	12fnL	.
 .	12an	.
 .	12ccnJ	.
@@ -986,7 +987,7 @@
 12Bn	.	.
 12dJ	.	.
 12G#L	12ff] 12fffL]	.
-12B	(12ccc#	.
+12B	(12ccc#X	.
 12dJ	12dddJ	.
 12G#L	12fffL	.
 12B	12ccc#	.
@@ -995,7 +996,7 @@
 12d	12eee	.
 12fnJ	12dddJ	.
 =73	=73	=73
-12AL	4ccc#)	.
+12AL	4ccc#X)	.
 12c#X	.	.
 12eJ	.	.
 !	!	!LO:DY:rj
@@ -1063,37 +1064,37 @@
 12f#J	12aaJ)	.
 !!LO:LB:g=z
 =78	=78	=78
-12A: 12c#: 12e: 12g:	12a 12cc# 12ee 12ggL	.
+12A: 12c#: 12e: 12g:	(12a: 12cc#: 12ee: 12gg:L>	.
 12r	12ee	.
 12r	12cc#J	.
 12r	12a	.
 !LO:TX:b:i:t=m.s.	!	!
-12gL	12ryy	.
-12eJ	12ryy	.
-12c#L	2ryy	.
-12AJ	.	.
-!LO:TX:a:i:t=m.d.	!	!
-12G/	.	.
-12EL	.	.
-12C#	.	.
-12AAJ	.	.
+12ryy	12g<L<	.
+12ryy	12e<J	.
+2ryy	12c#<L<	.
+.	12A<J	.
+!	!LO:TX:b:i:t=m.d.	!
+.	12G</	.
+.	12E<L	.
+.	12C#<	.
+.	12AA<J	.
 =79	=79	=79
-12AAAL<	1ryy	.
-12CC#	.	.
-12EEJ	.	.
-12AA\	.	.
-12C#L>	.	.
-12EJ	.	.
-12GL>	.	.
-12B	.	.
-12AJ	.	.
-12GL>	.	.
-12F#	.	.
-12EJ	.	.
+1ryy	12AAA<L<	.
+.	12CC#<	.
+.	12EE<J	.
+.	12AA<\	.
+.	12C#<L>	.
+.	12E<J	.
+.	12G<L>	.
+.	12B<	.
+.	12A<J	.
+.	12G<L>	.
+.	12F#<	.
+.	12E<J)	.
 =80	=80	=80
 .	(F#<16qLL	.
 .	A<16qJJ	.
-8rB	2d<)	.
+8rBB	2d<)	.
 (16C#LL	.	.
 16DJJ	.	.
 4DD/)	.	.
@@ -1108,11 +1109,11 @@
 .	(A16qLL	.
 .	d16qJJ	.
 8.r	2f#)	.
-16C#	.	.
+(16C#	.	.
 8DL	.	.
 16AAL	.	.
 16FF#JJ	.	.
-4DD	4r	.
+4DD)	4r	.
 4r	(8.ddL	p
 .	16aJk	.
 =82	=82	=82
@@ -1185,8 +1186,8 @@
 .	16cc#	.
 8d	16dd	.
 .	16cc#JJ	.
-.	(16qqee	.
-8g	8ddL)	.
+.	(16qqeeP	.
+8g	8ddpL)	.
 8dJ	16cc#L	.
 .	16bJJ	.
 =87	=87	=87
@@ -1222,19 +1223,19 @@
 4G# 4B 4d 4fn	8ccc#	.
 .	8dddJ)	[[
 =89	=89	=89
-.	dddq	.
+.	(ddd8q	.
 *tuplet	*	*
 !LO:TUP:a	!	!
-12AL	2dd	f
+12AL	2dd)	f
 12d	.	.
 12f#XJ	.	.
 !LO:TUP:a	!	!
 12AL	.	.
 12d	.	.
 12f#J	.	.
-.	ff#q	.
+.	(ff#8q	.
 !LO:TUP:a	!	!
-12AL	(8.eeL	>
+12AL	()8.eeL	>
 12c#	.	.
 12gnJ	.	.
 .	16ddk	.
@@ -1446,7 +1447,7 @@
 12D	.	.
 .	(cc#16qLL	.
 .	b16q	.
-.	a16qJJ	.
+.	a#16qJJ	.
 .	8b)	.
 12GJ	.	.
 12GG#L	2dd	.
@@ -1458,7 +1459,7 @@
 =105	=105	=105
 12AAL	(2d)	>
 12D	.	.
-12F#J	.	.
+12FJ	.	.
 12AAL	.	.
 12D	.	.
 12F#J	.	.
@@ -1505,6 +1506,7 @@
 12DDL	4r	.
 12AA	.	.
 12DJ	.	.
+!	!	!LO:HP:t=dimin.
 12DDL	4c#'> (>4g'>	>
 12BB-	.	.
 12EJ	.	.
@@ -1543,9 +1545,10 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 10
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
-!!!END: 2008/07/05/
+!!!END: 2008/07/05
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/30
+!!!EEV: 2021/02/02
