@@ -26,10 +26,10 @@
 .	.	4B)	.
 =2	=2	=2	=2
 .	.	(B8q	.
-(8..G#L	2.E	8..bL)	<
+(8..G#L	2.E	(8..bL)	<
 32F#Jkk	.	32aJkk	.
 2A)	.	4cc#	.
-.	.	4f# d#	.
+.	.	4f# d#)	.
 *v	*v	*	*
 =3	=3	=3
 8B:L G#: E:	8..ee:L> b: g#: e:	f
@@ -50,14 +50,16 @@
 (4BB	(8..gg#L	4ee	.
 .	32aaJkk	.	.
 4B)	8ff#)	8dd#	.
-.	16r	16r	.
+.	16r	16ryy	.
 .	16ee	16cc#	.
-4r	(24dd#'LL> b	4ryy	>
+!	!LO:TUP:b	!	!
+4r	24dd#'LL> b	4ryy	>
 .	24cc#' a	.	.
-.	24b'JJ g#)	.	.
-.	(24a'LL f#	.	.
+.	24b'JJ g#	.	.
+!	!LO:TUP:b	!	!
+.	24a'LL f#	.	.
 .	24g#' e	.	.
-.	24f#'JJ d#)	.	.
+.	24f#'JJ d#	.	.
 *	*v	*v	*
 =5	=5	=5
 *^	*	*
@@ -70,9 +72,9 @@
 .	.	(B8q	.
 8..G#L	4E	8..bL)	.
 32F#Jkk	.	(32aJkk	<
-2ryy	4A D#	8..b#L)	.
+4A D#	2ryy	8..b#L)	.
 .	.	32f#Jkk	.
-.	4A: F#: C#:	8..cc#:L a: f#: c#:	.
+4A: F#: C#:	.	8..cc#:L a: f#: c#:	.
 .	.	32f#Jkk	.
 *v	*v	*	*
 =7	=7	=7
@@ -97,41 +99,41 @@
 =8	=8	=8
 *>A1	*>A1	*>A1
 *	*^	*
-[4BB	4cc#' a#	(8..eL	fp
+[4BB	(4cc# a#	(8..eL	fp
 .	.	32f#Jkk	.
 *Xtuplet	*	*	*
 24BBLL]	(8b)	8d#)	.
-24BBB	.	.	.
+(24BBB	.	.	.
 24DD#JJ	.	.	.
 !	!	!	!LO:HP:b=2
-24FF#LL	8r	8r	<
+24FF#LL	8r	8ryy	<
 24BB	.	.	.
 24D#JJ	.	.	.
-24F#LL	4r	4r	.
+24F#LL	4r	4ryy	.
 24An	.	.	.
 !	!	!	!LO:HP:b=2
 24G#JJ	.	.	[ >
 24BLL	.	.	.
 24A	.	.	.
-24F#JJ	.	.	]]
+24F#JJ)	.	.	]]
 *	*v	*v	*
 =9:|!	=9:|!	=9:|!
 *>A2	*>A2	*>A2
 *	*^	*
-[4BB	(4cc# a#	(8..eL	.
+[4BB	(4cc# a#	(8..eL	fp
 .	.	32f#Jkk	.
 (24BBLL]	8b)	8d#)	.
 24BBB	.	.	.
 24DD#JJ	.	.	.
 !	!	!	!LO:HP:b=2
-24FF#LL	8r	8r	<
+24FF#LL	8r	8ryy	<
 24BB	.	.	.
 24D#JJ	.	.	.
 24F#LL	8r	4ryy	.
 24An	.	.	.
 24BJJ	.	.	.
 *	*Xtuplet	*	*
-24d#>LL	8rD<	.	[
+24d#>LL>	8rD<	.	[
 24f#>	.	.	.
 24an>JJ)	.	.	.
 *	*v	*v	*
@@ -145,12 +147,13 @@
 .	32bJkk	.
 .	(b8q	.
 4e B Gn	8..ggnL)	.
-.	32bJkk	.
+.	32bJkk	[
 =11	=11	=11
 *	*^	*
-8..fn:L dn: B: Gn:	2ryy	4aa: ffn: ddn: b:	ff
+!	!	!	!LO:DY:rj
+8..fn:L dn: B: Gn:	4aa: ffn: ddn: b:	2ryy	ff
 32BJkk G	.	.	.
-8..dL B	.	4ff: dd: b: gn:	.
+8..dL B	4ff: dd: b: gn:	.	.
 32BJkk G	.	.	.
 8..eL cn	8..ee::L	4ccn:: g::	.
 32fJkk d	32ddJkk	.	.
@@ -198,7 +201,7 @@
 .	32b'	.
 .	32b'JJJ	.
 *	*Xtuplet	*
-4f# d# B A	48bLLL	.
+4f# d# B A	(48bLLL	.
 .	48cc#	.
 .	48b	.
 .	48a#	.
@@ -213,10 +216,11 @@
 .	64ccc#	.
 .	64ddd#JJJJ	.
 =16	=16	=16
+!	!	!LO:DY:rj
 (4e B G#	8..eeeL ee	ff
 .	32ddd#Jkk dd#	.
 4e# B G#	4dddn ddn	.
-4f#) c# A	4ccc# cc#	.
+4f#) c# A	4ccc# cc#)	.
 *clefG2	*	*
 =17	=17	=17
 .	(>b32qLLL	.
@@ -242,18 +246,19 @@
 .	.	.	32bJkk	.
 *	*	*v	*v	*
 2E)	2ee)	2g# e	.
-*v	*v	*	*
+*	*v	*v	*
 !!LO:LB:g=z
 =20:|!	=20:|!	=20:|!
 *>C	*>C	*>C
 *	*clefF4	*clefF4
 *k[f#]	*k[f#]	*k[f#]
 *e:	*e:	*e:
+!	!	!LO:DY:rj
 (8..EEL	(8..EL	f
 32DD#Jkk	32D#Jkk	.
 16.FF#LL	16.F#LL	.
 32EEk	32Ek	.
-16.GG	16.G	.
+16.GG	16.Gn	.
 32FF#JJk	32F#JJk	.
 16.AALL	16.ALL	.
 32GGk	32Gk	.
@@ -291,7 +296,7 @@
 *clefG2	*	*
 (32f#	(32eee ccc	p
 =22	=22	=22
-8g')	8ddd` bb)	.
+8g`)	8ddd` bb)	.
 16r	16r	.
 !	!LO:TUP:a	!
 (16f#	(48aaLLL	.
@@ -359,7 +364,7 @@
 80BnJJJJ	80bnJJJJ	.
 16cn)	16ccn`)	.
 16rD	16rb	.
-16D	16f#` c'	.
+16D	16f#` c	.
 16rD	16rb	.
 =25	=25	=25
 8GGG	((2a^> c	p
@@ -418,23 +423,23 @@
 .	64ff#JJJJ)	.
 =28	=28	=28
 *	*^	*
-.	.	(ff#8q	.
-16gLL c	2ryy	16.eeLL)	<
+.	(ff#8q	.	.
+16gLL c	16.eeLL)	2ryy	<
 16gJJ c	.	.	.
-.	.	32eeeJJk	.
-.	.	(eee8q	.
-16g#LL c	.	16.eeLL)	.
+.	32eeeJJk	.	.
+.	(eee8q	.	.
+16g#LL c	16.eeLL)	.	.
 16g#JJ c	.	.	.
-.	.	32dddJJk	.
-.	.	(ddd8q	.
-16aLL c	.	16.eeLL)	.
+.	32dddJJk	.	.
+.	(ddd8q	.	.
+16aLL c	16.eeLL)	.	.
 16aJJ c	.	.	.
-.	.	32cccJJk	.
-.	.	(ccc8q	.
-16bLL c	.	16.eeLL)	.
+.	32cccJJk	.	.
+.	(ccc8q	.	.
+16bLL c	16.eeLL)	.	.
 16bJJ c	.	.	.
-.	.	32bbJJk	.
-.	.	(>bb8q	.
+.	32bbJJk	.	.
+.	(>bb8q	.	.
 16ccLL c	16.aa#LL)	16.eeLL	.
 16cc c	.	.	.
 .	32aa#Jk	32ggk	.
@@ -449,15 +454,15 @@
 .	.	16.ff#	.
 .	.	32dd#JJk	.
 8B]	8bb]	8b)	.
-16.r	16.ryy	16.r	.
+16.r	16.r	16.ryy	.
 *clefF4	*clefF4	*	*
-32C	32ryy	32c	.
-(C8q	.	(c8q	.
-16.BB`LL)	4ryy	16.B`LL)	.
-32AAk	.	32Ak	.
-(AA8q	.	(A8q	.
-16.GG`)	.	16.G`)	.
-32FF#JJk	.	32F#JJk	.
+32C	32c	32ryy	.
+(C8q	(c8q	.	.
+16.BB`LL)	16.B`LL)	4ryy	.
+32AAk	32Ak	.	.
+(AA8q	(A8q	.	.
+16.GG`)	16.G`)	.	.
+32FF#JJk	32F#JJk	.	.
 *	*v	*v	*
 =30	=30	=30
 8..EEL	(8..EL	f
@@ -486,7 +491,7 @@
 32BBBJJk	32BBJJk	.
 !!LO:LB:g=z
 =33	=33	=33
-(32AALLL	32ALLL	.
+(<32AALLL	32ALLL	.
 32BBB	32BB	.
 32DD#	32D#	.
 32FF#JJJ	32F#JJJ	.
@@ -513,13 +518,13 @@
 (8..G#L	2.E	(8..eL	p
 32F#Jkk	.	32d#Jkk	.
 2A)	.	4f#	.
-.	.	4A)	.
+.	.	4B)	.
 *v	*v	*	*
 =35	=35	=35
-.	E32qLLL	.
-.	G#32qJJJ	.
+.	(>E<32qLLL	.
+.	G#<32qJJJ	.
 .	B32qLLL	.
-.	(e32q	.
+.	e32q	.
 .	g#32qJJJ	.
 4rD	(8..bL)	<
 .	32aJkk	.
@@ -553,18 +558,18 @@
 .	16.aa#	.	.
 .	32bbJJk	.	.
 4B)	8ff#)	8dd#)	.
-.	8ryy	16r	.
-.	.	16ee' cc#	>
-.	.	(cc#8q/ ee	.
-!	!	!LO:TUP:b	!
-4r	4ryy	24dd#'LL> b)	.
-.	.	24cc#' an	.
-.	.	24b'JJ g#	.
-.	.	(g#8q b	.
-!	!	!LO:TUP:b	!
-.	.	24a'LL f#)	.
-.	.	24g#' e	.
-.	.	24f#'JJ d#	.
+.	16r	8ryy	.
+.	16ee' cc#	.	>
+.	(cc#8q/ ee	.	.
+!	!LO:TUP:b	!	!
+4r	24dd#'LL> b)	4ryy	.
+.	24cc#' an	.	.
+.	24b'JJ g#	.	.
+.	(g#8q b	.	.
+!	!LO:TUP:b	!	!
+.	24a'LL f#)	.	.
+.	24g#' e	.	.
+.	24f#'JJ d#	.	.
 *	*v	*v	*
 =38	=38	=38
 *^	*	*
@@ -590,36 +595,36 @@
 (<24F#L	.	(24aL	.
 24Gn	.	24a#	.
 24G#JJ	.	24bJJ)	.
-2ryy	4A D#)	8..b#L	.
+4A D#)	2ryy	8..b#L	.
 .	.	32f#Jkk	.
 .	.	(f#8q	.
-.	4A F# C#	8..cc#L)	.
+4A F# C#	.	8..cc#L)	.
 .	.	32f#Jkk	.
 *v	*v	*	*
 =40	=40	=40
 *	*^	*
-*	*Xtuplet	*	*
+*	*tuplet	*	*
 4B#: G#: D#: BB#:	8..dd#:L g#:	4f#:	f
 .	32g#Jkk	.	.
 *	*rscale:1/2	*	*
 !	!LO:TUP:a	!	!
 !	!	!	!LO:HP:a=2
-4ryy	(60C#<LLLL	2ryy	<
-.	60E<	.	.
-.	60G#<	.	.
-.	60c#<	.	.
-.	60e	.	.
-.	60g#	.	.
-.	60cc#	.	.
-.	60ee	.	.
-.	60gg#	.	.
+4ryy	(60C#</LLLL	2ryy	<
+.	60E</	.	.
+.	60G#</	.	.
+.	60c#</	.	.
+.	60e\	.	.
+.	60g#\	.	.
+.	60cc#\	.	.
+.	60ee\	.	.
+.	60gg#\	.	.
 !	!	!	!LO:HP:a=2
-.	60ccc#	.	[ >
-.	60eee	.	.
-.	60ccc#	.	.
-.	60gg#	.	.
-.	60ee	.	.
-.	60cc#JJJJ	.	] p
+.	60ccc#\	.	[ >
+.	60eee\	.	.
+.	60ccc#\	.	.
+.	60gg#\	.	.
+.	60ee\	.	.
+.	60cc#\JJJJ	.	] p
 *	*rscale:1	*	*
 16F#`	16bn` d#)	.	.
 16r	16rb	.	.
@@ -639,7 +644,7 @@
 64FF#>LLLL>	32rD<	32ryy	.
 64DD#>JJJJ	.	.	.
 8BBB>/)	4rD<	4ryy	.
-8r>	.	.	.
+8rD>	.	.	.
 *	*v	*v	*
 *	*clefG2	*
 !!LO:LB:g=z
@@ -723,7 +728,7 @@
 =48	=48	=48
 4e B G#	8..eeeL ee	f
 .	32ddd#Jkk dd#	.
-4e# B G#	4ddd# ddn	.
+4e# B G#	4dddn ddn	.
 4f# c# A	4ccc#) cc#	.
 *clefG2	*	*
 =49	=49	=49
@@ -757,12 +762,12 @@
 !!LO:LB:g=z
 =50	=50	=50
 *^	*^	*
-4b	(8..d#L	2ryy	(8..aanL ff#	p
-.	32eJkk	.	32gg#Jkk ee	.
-8a A)	2ryy	.	8ccc#) ee	.
-8r	.	.	8r	.
+4b	(8..d#L	(8..aanL ff#	2ryy	p
+.	32eJkk	32gg#Jkk ee	.	.
+8a A)	2ryy	8ccc#) ee	.	.
+8r	.	8r	.	.
 8f# B	.	8dd#	8a	.
-8r	.	8rb	8rb	.
+8r	.	8rb	8rbyy	.
 *	*	*v	*v	*
 *v	*v	*	*
 *clefF4	*	*
@@ -772,9 +777,9 @@
 .	.	32bJkk	.
 .	8ee)	8g#)	.
 *	*clefF4	*clefF4	*
-.	4.ryy	(8EE'L	.
-.	.	8EE'	.
-.	.	8EE'J)	.
+.	(8EE'L	4.ryy	.
+.	8EE'	.	.
+.	8EE'J)	.	.
 *	*v	*v	*
 =52	=52	=52
 *^	*	*
@@ -788,7 +793,7 @@
 *v	*v	*	*
 =53	=53	=53
 !	!	!LO:DY:b=2
-2.d# B A F#	2EE~~>	fz
+2.d#X B A F#	2EE~~>	fz
 *	*clefG2	*
 .	8aaL	p
 .	(bb32qLLL	.
@@ -812,9 +817,10 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 4, No. 34
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
-!!!END: 2008/07/06/
+!!!END: 2008/07/06
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/30
+!!!EEV: 2021/02/02
