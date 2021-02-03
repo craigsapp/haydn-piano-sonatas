@@ -6,7 +6,8 @@
 !!!OMV: Mvmt. 1
 !!!OMD: Allgero.
 !!!ODT: 1789-1790
-!!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 3, No. 25
+!!!PPR: Universal Edition 1
+!!!PTL: Haydn Piano Sonatas, Vol. 3, No. 25
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -2136,8 +2137,18 @@
 !!!RDF**kern: < = below
 !!!RDF**dynam: > = dim.
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 3, No. 25
+!!!YOY: 1901
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
+!!!ONM-ue: III:25.1
+!!!YEC: 2021 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!YER: 2021
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/11
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2021/02/02
+!!!YEC: 2021 Craig Stuart Sapp
+!!!URL: https://github.com/craigsapp/haydn-keyboard-sonatas
+!!!URL-vhv: https://verovio.humdrum.org?file=haydn/sonatas/sonata59-1.krn
+!!!URL-pdf: https://github.com/craigsapp/haydn-keyboard-sonatas/raw/master/reference-edition/sonata59-1.pdf
+!!!title: @{OTL}, mvmt. @{OMV} (@{SCT}), UE @ONM-ue

@@ -5,7 +5,7 @@
 !!!SCT: Hob. XVI:30
 !!!OMV: Mvmt. 3, Theme
 !!!OMD: Tema con variazioni: Tempo di Menuetto.
-!!!ODT: ~1776
+!!!ODT: ~1774-1776
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -133,9 +133,20 @@
 4AA''	.	.
 ==:|!	==:|!	==:|!
 *-	*-	*-
-!!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 6
+!!!PPR: Universal Edition 1
+!!!PTL: Haydn Piano Sonatas, Vol. 1, No. 6
+!!!YOY: 1901
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
+!!!ONM-ue: I:6.3a
+!!!YEC: 2021 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!YER: 2021
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/03/
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2021/02/02
+!!!YEC: 2021 Craig Stuart Sapp
+!!!URL: https://github.com/craigsapp/haydn-keyboard-sonatas
+!!!URL-vhv: https://verovio.humdrum.org?file=haydn/sonatas/sonata45-3a.krn
+!!!URL-pdf: https://github.com/craigsapp/haydn-keyboard-sonatas/raw/master/reference-edition/sonata45-3a.pdf
+!!!title: @{OTL}, mvmt. @{OMV} (@{SCT}), UE @ONM-ue

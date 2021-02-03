@@ -1,0 +1,10 @@
+A digital edition of Haydn piano sonatas
+from Universal Edition issue 1, vols. 1-4 (1901)
+================================================
+
+Copyright (C) 2008-2021 Craig Stuart Sapp
+https://github.com/craigsapp/haydn-keyboard-sonatas
+
+Licensed with Attribution-NonCommercial-ShareAlike 4.0 International 
+(CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+

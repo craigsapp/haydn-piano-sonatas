@@ -1165,9 +1165,20 @@
 !!!RDF**kern: < = below
 !!!RDF**kern: N = linked
 !!!ONB: linked (cross-staff slurs not encoded)
-!!!SMS: Universal Edition 3, Haydn Piano Sonatas, Vol. 3, No. 24
+!!!PPR: Universal Edition 1
+!!!PTL: Haydn Piano Sonatas, Vol. 3, No. 24
+!!!YOY: 1901
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
+!!!ONM-ue: III:24.3
+!!!YEC: 2021 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!YER: 2021
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/08/26/
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2021/01/25
+!!!YEC: 2021 Craig Stuart Sapp
+!!!URL: https://github.com/craigsapp/haydn-keyboard-sonatas
+!!!URL-vhv: https://verovio.humdrum.org?file=haydn/sonatas/sonata52-3.krn
+!!!URL-pdf: https://github.com/craigsapp/haydn-keyboard-sonatas/raw/master/reference-edition/sonata52-3.pdf
+!!!title: @{OTL}, mvmt. @{OMV} (@{SCT}), UE @ONM-ue

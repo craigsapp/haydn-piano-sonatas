@@ -5,7 +5,7 @@
 !!!SCT: Hob. XVI:14
 !!!OMV: Mvmt. 2
 !!!OMD: MENUETTO.
-!!!ODT: 1760-1765
+!!!ODT: ~1760-1765
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *>[A,A,B,B,C,C,D,D,A,B]	*>[A,A,B,B,C,C,D,D,A,B]	*>[A,A,B,B,C,C,D,D,A,B]
@@ -458,9 +458,20 @@
 !!LO:TX:b:rj:i:t=Menuetto D.C.
 ==:|!	==:|!	==:|!
 *-	*-	*-
-!!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 3
+!!!PPR: Universal Edition 1
+!!!PTL: Haydn Piano Sonatas, Vol. 1, No. 3
+!!!YOY: 1901
 !!!ONB: Stich und Druck von Jos. Eberle  Co. Wien VII. Seidengasse 3-9
+!!!ONM-ue: I:3.2
+!!!YEC: 2021 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!YER: 2021
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/03/05
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2021/02/01
+!!!YEC: 2021 Craig Stuart Sapp
+!!!URL: https://github.com/craigsapp/haydn-keyboard-sonatas
+!!!URL-vhv: https://verovio.humdrum.org?file=haydn/sonatas/sonata16-2.krn
+!!!URL-pdf: https://github.com/craigsapp/haydn-keyboard-sonatas/raw/master/reference-edition/sonata16-2.pdf
+!!!title: @{OTL}, mvmt. @{OMV} (@{SCT}), UE @ONM-ue

@@ -5,7 +5,7 @@
 !!!SCT: Hob. XVI:6
 !!!OMV: Mvmt. 1
 !!!OMD: Allgero.
-!!!ODT: 1750-1755
+!!!ODT: ~1750-1755
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -1140,9 +1140,20 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 3, No. 22
+!!!PPR: Universal Edition 1
+!!!PTL: Haydn Piano Sonatas, Vol. 3, No. 22
+!!!YOY: 1901
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
+!!!ONM-ue: III:22.1
+!!!YEC: 2021 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!YER: 2021
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/10
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2021/01/31
+!!!YEC: 2021 Craig Stuart Sapp
+!!!URL: https://github.com/craigsapp/haydn-keyboard-sonatas
+!!!URL-vhv: https://verovio.humdrum.org?file=haydn/sonatas/sonata13-1.krn
+!!!URL-pdf: https://github.com/craigsapp/haydn-keyboard-sonatas/raw/master/reference-edition/sonata13-1.pdf
+!!!title: @{OTL}, mvmt. @{OMV} (@{SCT}), UE @ONM-ue

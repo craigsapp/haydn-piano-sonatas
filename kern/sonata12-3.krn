@@ -1,11 +1,11 @@
-!!!COM: Haydn, Franz Joseph
+!!!COA: Haydn, Franz Joseph
 !!!CDT: 1732/03/31-1809/05/31
 !!!CNT: Austrian
 !!!OTL: Sonata No. 12 in A major
 !!!SCT: Hob. XVI:12
 !!!OMV: Mvmt. 3
 !!!OMD: Finale.: Allegretto.
-!!!ODT: 1750-1755
+!!!ODT: ~1750-1755
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *Ipiano	*Ipiano	*Ipiano
@@ -466,9 +466,20 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 1, No. 5
+!!!PPR: Universal Edition 1
+!!!PTL: Haydn Piano Sonatas, Vol. 1, No. 5
+!!!YOY: 1901
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
+!!!ONM-ue: I:5.3
+!!!YEC: 2021 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!YER: 2021
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/05
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2021/01/31
+!!!YEC: 2021 Craig Stuart Sapp
+!!!URL: https://github.com/craigsapp/haydn-keyboard-sonatas
+!!!URL-vhv: https://verovio.humdrum.org?file=haydn/sonatas/sonata12-3.krn
+!!!URL-pdf: https://github.com/craigsapp/haydn-keyboard-sonatas/raw/master/reference-edition/sonata12-3.pdf
+!!!title: @{OTL}, mvmt. @{OMV} (@{SCT}), UE @ONM-ue
