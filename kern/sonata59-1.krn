@@ -108,7 +108,7 @@
 !!LO:LB:g=z
 =10	=10	=10
 4.AA- 4.E-]	4bn	.
-.	8cc'')	.
+.	8cc`)	.
 .	(dd32qqLLL	.
 .	cc32qq	.
 .	b32qqJJJ	.
@@ -158,8 +158,8 @@
 (8B-L	.	.	.
 8d	.	.	.
 8B-	.	.	.
-8e-	8aa-L]	8ffL]	<
-8E-J)	8ggJ	(8ggJ	.
+8e-	8aa-L]	8ffL]	.
+8E-J)	8ggJ	(>8ggJ	<
 *	*v	*v	*
 =17	=17	=17
 8r	[2ccc	.
@@ -208,7 +208,7 @@
 2g	2.b- 2.een	>
 4g-	.	.
 =24	=24	=24
-2f;)	2an; 2ee-;)	.
+2f;)	2an; 2ee-X;)	.
 4r	(16dLL	] mf
 .	16f	.
 .	16e-	.
@@ -318,7 +318,7 @@
 16fJJ	.	.
 16A-LL	.	.
 16f	.	.
-16d	(8cccsSSSL	.
+16d	(8cccsSSsL	.
 16fJJ	.	.
 16A-LL	8.fff	.
 16f	.	.
@@ -390,7 +390,7 @@
 4r	8ggL	.
 .	8ee-'J)	.
 =39	=39	=39
-2.r	(16ddLL>	<
+2.ryy	(16ddLL>	<
 .	16ccJJ	.
 .	16bnLL	.
 .	16ccJJ	.
@@ -410,6 +410,7 @@
 .	een32qqJJ	.
 .	8.ff#L	.
 .	16aanJk	[ >
+!	!LO:TUP:a	!
 .	12ggL	.
 .	12ee-X	.
 .	12ccJ	]
@@ -611,7 +612,7 @@
 !	!	!	!LO:DY:b	!LO:DY:b=2:rj
 8r	[2.B-	8b-L)	p	p
 *	*	*	*v	*v
-8dL	.	(8f	.
+(8dL	.	(8f	.
 8e-	.	8g-	.
 8en	.	8gn	.
 8f	.	8a-X	.
@@ -624,11 +625,11 @@
 8c	.	8ee-	.
 8e-J	.	8anJ	.
 =62	=62	=62	=62
-8d	8B-]	8b-)	.
-8r	8r	8dd (8ffL	f
-4r	4r	8ee- 8gg	.
+8d)	8B-]	8b-)	.
+8r	8ryy	8dd (8ffL	f
+4r	4ryy	8ee- 8gg	.
 .	.	8dd 8ff	.
-4r	4r	8cc 8ee-	.
+4r	4ryy	8cc 8ee-	.
 .	.	8b- 8ddJ	.
 *v	*v	*	*
 *clefF4	*	*
@@ -763,8 +764,8 @@
 .	.	8f#J	.
 =80	=80	=80	=80
 4Bn)	4G]	4g)	.
-2ryy	4r	4r	.
-.	4r	(16ccLL	mf
+4r	4ryy	4r	.
+4r	4ryy	(16ccLL	mf
 .	.	16ee-	.
 .	.	16dd	.
 .	.	16ffJJ	.
@@ -950,7 +951,7 @@
 16cJJ	16ffJJ	.
 !!LO:LB:g=z
 =95	=95	=95
-16E-LL	4.gg-	>
+16E-XLL	4.gg-	>
 16c	.	]]
 16A-	.	.
 16cJJ	.	.
@@ -976,8 +977,8 @@
 16F	8ff'J	.
 16A-JJ	.	.
 =97	=97	=97
-.	(ee-32qLL	.
-.	ff32qJJ	.
+.	(ee-32qqLL	.
+.	ff32qqJJ	.
 16CLL	(4.gg-)	.
 16A-	.	.
 16E-	.	.
@@ -1031,8 +1032,8 @@
 16F	8ffJ	.
 16A-JJ	.	.
 =101	=101	=101
-.	(ff32qLLL	.
-.	ggn32qJJJ	.
+.	(ff32qqLLL	.
+.	ggn32qqJJJ	.
 16CLL	4.aa-)	fz
 16A-	.	.
 16F	.	.
@@ -1046,8 +1047,8 @@
 16F	8ffJ	.
 16A-JJ	.	.
 =102	=102	=102
-.	(ff32qLLL	.
-.	ggn32qJJJ	.
+.	(ff32qqLLL	.
+.	ggn32qqJJJ	.
 16BBnLL	4.aa-)	fz
 16A-	.	.
 16F	.	.
@@ -1116,9 +1117,9 @@
 .	16ffJJ	.
 !!LO:LB:g=z
 =107	=107	=107
-.	(een32qLLL	.
-.	gg32qJJJ	.
-4c 4g	)4ccc)	.
+.	(een32qqLLL	.
+.	gg32qqJJJ	.
+4c 4g	4ccc))	.
 4r	4r	.
 4r	4r	.
 =108	=108	=108
@@ -1199,16 +1200,17 @@
 =118	=118	=118	=118
 2e-)	2ee-)	4a-] 4cc-]	.
 .	.	4gn 4b-)	.
-(>(4cn 4fn	[4ee-	(4an	fz
+(>(4cn 4fn	&([4ee-	(4an	fz
 =119	=119	=119	=119
 *^	*	*	*
 4g-	2B-)	4ee-])	2b-	.
-4f)	.	4dd-	.	.
-(4gn	4ryy	[4dd- 4een	[4b-	fz
+4f)	.	4dd-&)	.	.
+(4gn	4ryy	([4dd- 4een	[4b-	fz
 *v	*v	*	*	*
 !!LO:LB:g=z
 =120	=120	=120	=120
-2f)	2ff	4b-] 4dd-]	.
+2f)	2ff)	4b-] 4dd-]	.
+!!!ONB: slur from nowhere?
 .	.	4a-X 4cc	.
 (>4dn (4g	([4ff	(4bn	fz
 =121	=121	=121	=121
@@ -1225,11 +1227,11 @@
 8f'J)	8aa-'J)	8b 8ddJ	.
 =123	=123	=123	=123
 4f	4aa-	4bn 4dd	.
-8r	2ryy	4r	.
+8r	4r	4ryy	.
 *clefF4	*	*	*
-!	!	!	!LO:DY:b=2
+!	!	!	!LO:DY:b=2:rj
 (8BBBn'L	.	.	p
-8BBB'	.	4r	.
+8BBB'	4r	4ryy	.
 8BBB'J)	.	.	.
 *	*v	*v	*
 =124	=124	=124
@@ -1241,7 +1243,7 @@
 =125	=125	=125
 4r	4ff 4aa-	.
 8r	4r	.
-(8BBB-'L	.	.
+(8BBB-X'L	.	.
 8BBB-'	4r	.
 8BBB-'J)	.	.
 *	*clefF4	*clefF4
@@ -1447,7 +1449,7 @@
 =141	=141	=141
 4.AA- 4.E-]	4bn	.
 .	8cc`)	.
-.	(d32dqqLLL	.
+.	(dd32qqLLL	.
 .	cc32qq	.
 .	b32qqJJJ	.
 8r	(8ccL)	p
@@ -1476,6 +1478,7 @@
 8E-	.	.
 8B-	8e-L]	.
 8BB-J)	8dJ)	.
+!!ONB: slur from nowhere?
 =145	=145	=145
 8r	[2a-	.
 (8BB-L	.	.
@@ -1606,8 +1609,8 @@
 16F'	8a-'J	.
 16B-JJ	.	.
 =160	=160	=160
-16E-LL)	(8f#L	.
-(16B-	.	.
+(16E-LL)	(8f#L	.
+16B-	.	.
 16G	8gJ)	.
 16B-JJ	.	.
 16E-LL	(16e-LL	.
@@ -1652,7 +1655,7 @@
 16B-JJ	.	.
 16D-LL	.	.
 16B-	.	.
-16G	(8ff	.
+16G	(8ffsSSs	.
 16B-JJ	.	.
 16D-LL	8.bb-L	.
 16B-	.	.
@@ -1683,7 +1686,7 @@
 16A-JJ	(16ggJk	.
 16C-LL	8ffL)	.
 16A-	.	.
-16F	16r	.
+16F	16rdd	.
 16A-JJ	(16ee-Jk	.
 !!LO:LB:g=z
 =166	=166	=166
@@ -1742,6 +1745,7 @@
 .	aan32qJJ	.
 .	8.bbL	.
 .	16dddJk	.
+!	!LO:TUP:a	!
 .	12cccL	[ >
 .	12aa-	.
 .	12ffJ	]]
@@ -1750,7 +1754,7 @@
 =171	=171	=171
 *	*^	*
 2B- 2g	2ryy	4.ee-)	.
-.	.	(8ee-sSsS	p
+.	.	(8ee-sSSs	p
 4B- 4a-	8ggL	4dd	.
 .	8ffJ	.	.
 *clefF4	*	*	*
@@ -1771,8 +1775,8 @@
 16G	8gg'J	.
 16B-JJ	.	.
 =173	=173	=173
-.	(32ddqLLL	.
-.	32ffqJJJ	.
+.	(32ddqqLLL	.
+.	32ffqqJJJ	.
 16DLL	(4.aa-)	fz
 16B-	.	.
 16F	.	.
@@ -1856,13 +1860,13 @@
 4r	[2.f [2.a-	.
 8r	.	.
 (C8q	.	.
-8DL)	.	.
+8D-L)	.	.
 (C8q	.	.
-8D)	.	.
+8D-)	.	.
 (C8q	.	.
-8DJ)	.	.
+8D-J)	.	.
 =183	=183	=183
-(4D-/	2f] 2a-]	<
+(<4D-/	2f] 2a-]	<
 4C	.	.
 4C-	4e- 4g- (>4an	[ f
 !!LO:LB:g=z
@@ -1876,16 +1880,16 @@
 .	16e-JJ	.
 =185	=185	=185
 2.BB- 2.F 2.A-	4.d)	.
-.	(g32qLL	.
-.	f32q	.
-.	en32qJJ	.
+.	(g32qqLL	.
+.	f32qq	.
+.	en32qqJJ	.
 .	8fL	.
 .	8a-	.
 .	8dJ	.
 =186	=186	=186
 *^	*	*
 8rc	[2.E-	8e-L)	p
-8GL	.	(>8B-	.
+(8GL	.	(>8B-	.
 8A-	.	8c-	.
 8An	.	8cn	.
 8B-	.	8d-	.
@@ -1893,20 +1897,20 @@
 =187	=187	=187	=187
 8cL	2.E-_	8e-L	.
 8B-X	.	8en	.
-8A-	.	8f	.
+8A-X	.	8f	.
 8G	.	8g	.
 8F	.	8a-	.
 8A-J	.	8dJ	.
 =188	=188	=188	=188
-8G	8E-]	8e-)	.
-8r	8r	(8g 8b-L	f
-4r	4r	8a- 8cc	.
+8G)	8E-]	8e-)	.
+8r	8ryy	(8g 8b-L	f
+4r	4ryy	8a- 8cc	.
 .	.	8g 8b-	.
-4r	4r	8f 8a-	.
+4r	4ryy	8f 8a-	.
 .	.	8e- 8gJ	.
 *v	*v	*	*
 =189	=189	=189
-!	!	!LO:DY:b=2
+!	!	!LO:DY:b=2:rj
 (8BB- 8B-L	4d) 4f	f
 8AAn 8An	.	.
 8AA- 8A-	4r	.
@@ -1930,8 +1934,8 @@
 8a-	4een 4gg	.
 8gJ	.	.
 =192	=192	=192
-(8fL)	4ff 4aa-	<
-8a-	.	.
+8fL)	4ff 4aa-	<
+(8a-	.	.
 8b-	4cc 4ee-	.
 8a-	.	.
 8g	4dd 4ff	.
@@ -1941,8 +1945,8 @@
 (8b-	8dd (8ff	.
 8cc	8ee- 8aa-	.
 8b-	8dd 8gg	.
-8a-	8cc 8ff	>
-8gJ	8b- 8ee-J	.
+8a-	8cc 8ff	.
+8gJ	8b- 8ee-J	>
 =194	=194	=194
 8fL	8a- 8ddL	.
 8e-	8g 8ccJ	.
@@ -1965,7 +1969,7 @@
 8DJ)	8B-J)	.
 =197	=197	=197
 ([2A-	8r	.
-.	(8b-L	.
+.	(8b-L>	.
 .	8dd	.
 .	8b-	.
 8A-L]	8ee-	.
@@ -2067,8 +2071,8 @@
 8EE-	8f] 8a-L]	.
 8E-J)	8e- 8gJ)	.
 =211	=211	=211
-8AA- 8A-	8r	.
-8r	8c 8f	p
+8AA- 8A-	8r	p
+8r	8c 8f	.
 8BB- 8G	8r	.
 8r	8B- 8e-	.
 8BB- 8F	8r	.
@@ -2082,15 +2086,15 @@
 8EE-	8f] 8a-L]	.
 8E-J)	8e- 8gJ	.
 =213	=213	=213
-8AA- 8A-	8r	.
-8r	8c 8f	p
+8AA- 8A-	8r	p
+8r	8c 8f	.
 8BB- 8G	8r	.
 8r	8B- 8e-	.
 8BB- 8F	8r	.
 8r	8A- 8d	.
 =214	=214	=214
-4E- 4G	8r	.
-.	(8g 8b-L	mf
+4E- 4G	8r	mf
+.	(8g 8b-L	,
 4r	8a- 8cc	.
 .	8g 8b-	.
 4r	8f 8a-	.
@@ -2130,9 +2134,10 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
 !!!SMS: Universal Edition 1, Haydn Piano Sonatas, Vol. 3, No. 25
 !!!ONB: Stich und Druck von Jos. Eberle & Co. Wien VII. Seidengasse 3-9
 !!!ENC: Craig Stuart Sapp
 !!!END: 2008/07/11
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/01/30
+!!!EEV: 2021/02/02
