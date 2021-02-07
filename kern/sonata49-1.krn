@@ -200,11 +200,11 @@
 16AA	8cc#	.
 16GG#JJ	.	.
 16FF#LL	8aa)	.
-16EE)	.	.
+16EE	.	.
 16DD#X	8aa`J	.
 16CC#JJ	.	[
 =16	=16	=16
-4BBB	(16aaLL	f
+4BBB)	(16aaLL	f
 .	16gg#	.
 .	16ff#	.
 .	16eeJJ	.
@@ -454,7 +454,7 @@
 .	16aa	.
 8dn	16gg#	.
 .	16ff#JJ	.
-4c#	16eeLL	.
+4c#	16ee#LL	.
 .	16gg#	>
 .	16bb	.
 .	16dddnJJ	.
