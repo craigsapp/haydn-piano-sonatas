@@ -12,6 +12,7 @@
 *Ipiano	*Ipiano	*Ipiano
 *clefF4	*clefG2	*
 *k[f#c#g#d#]	*k[f#c#g#d#]	*
+*c#:	*c:#	*
 *M4/4	*M4/4	*
 *met(c)	*met(c)	*
 *MM92	*MM92	*
@@ -1052,7 +1053,7 @@
 8f#`L)	8a`L) 8ff#	<
 8f##`J 8a#`	8cc#`J 8een	.
 (4f## 4a#	4cc# (>4ee	fz
-8g#`L)	8b#`L) 8ddnX	.
+8g#`L)	8b#`L) 8dd#X	.
 8d#`J 8a#`	8cc#`J 8ff##`	.
 =82	=82	=82
 4d# (>4a#	4cc# (>4ff##	fz
@@ -1084,7 +1085,7 @@
 8G# 8c#	8aL (>8aa	.
 8r	16g#Jk) 16gg#	.
 .	16r	.
-8A	8g#L (>8gg#	.
+8A 8c#	8g#L (>8gg#	.
 8r	16f#Jk) 16ff#	]]
 .	16r	.
 4r	8r	.
@@ -1128,8 +1129,8 @@
 .	16aa)	.
 .	(16f#	.
 .	16ff#JJ)	.
-.	((16d#LL	.
-.	16dd#))	.
+.	(16d#LL	.
+.	16dd#)	.
 .	(16B#	.
 .	16b#JJ)	.
 *clefF4	*	*
@@ -1183,7 +1184,7 @@
 4EE 4E	16cc#LL	.
 .	16ccc#	.
 .	16ee	.
-.	16ddd#JJ	.
+.	16eeeJJ	.
 4r	16dd#LL	.
 .	16ddd#	.
 .	16cc#	.
@@ -1253,7 +1254,7 @@
 8r	8cc#`J 8ee`	.
 8G# (>8f#	(16.dd#LL	.
 .	32b#JJk	.
-4c#) 4e	8cc#')	.
+4c#) 4e	8cc#')	>
 .	8eeL (>8gg#	.
 8r	8cc#J) 8ee	.
 8G# (>8f#	(16.b#LL	.
@@ -1281,7 +1282,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2021/02/04
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2021/02/04
+!!!EEV: 2021/02/06
 !!!YEC: 2021 Craig Stuart Sapp
 !!!URL: https://github.com/craigsapp/haydn-keyboard-sonatas
 !!!URL-vhv: https://verovio.humdrum.org?file=haydn/sonatas/sonata16-1.krn
